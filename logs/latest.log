@@ -1,127 +1,64 @@
-[18:29:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:29:09] [ServerMain/INFO]: Loaded 7 recipes
-[18:29:10] [ServerMain/INFO]: Loaded 1280 advancements
-[18:29:11] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[18:29:11] [Server thread/INFO]: Loading properties
-[18:29:11] [Server thread/INFO]: Default game type: SURVIVAL
-[18:29:11] [Server thread/INFO]: Generating keypair
-[18:29:11] [Server thread/INFO]: Starting Minecraft server on 192.168.86.140:25565
-[18:29:11] [Server thread/INFO]: Using default channel type
-[18:29:11] [Server thread/INFO]: Preparing level "world"
-[18:29:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:29:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:29:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:29:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:29:14] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[18:29:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:29:15] [Worker-Main-2/INFO]: Preparing spawn area: 45%
-[18:29:15] [Server thread/INFO]: Time elapsed: 2700 ms
-[18:29:15] [Server thread/INFO]: Done (4.191s)! For help, type "help"
-[18:29:58] [User Authenticator #1/INFO]: UUID of player Bemf is 258fbffa-8298-496c-b36b-2e67556655e5
-[18:29:58] [Server thread/INFO]: Bemf[/130.64.64.67:53315] logged in with entity id 24 at (-2631.825969173404, 65.0, -6816.488900241791)
-[18:29:58] [Server thread/INFO]: Bemf joined the game
-[18:30:27] [User Authenticator #2/INFO]: UUID of player Scarabeetles is c81101c5-4901-42e0-a36c-9f758fd8401b
-[18:30:27] [Server thread/INFO]: Scarabeetles[/147.226.209.76:60006] logged in with entity id 330 at (-1855.699999988079, 7.0, -881.5082700748765)
-[18:30:27] [Server thread/INFO]: Scarabeetles joined the game
-[18:30:28] [User Authenticator #3/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
-[18:30:29] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50565] logged in with entity id 438 at (1405.2226279175923, 64.24918707874468, -395.6698157458409)
-[18:30:29] [Server thread/INFO]: Zumquirelle joined the game
-[18:32:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:32:31] [Server thread/INFO]: hey guys<--[HERE]
-[18:33:12] [Server thread/INFO]: [Not Secure] [Server] hey guys, not sure why the server crashed. looked thru the logs but that shit is way too complicated for me to figure out right now. i want to test something really quickly, and im going to restart the server right now.
-[18:33:15] [Server thread/INFO]: /advancement (grant|revoke)
-[18:33:15] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
-[18:33:15] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
-[18:33:15] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
-[18:33:15] [Server thread/INFO]: /clear [<targets>]
-[18:33:15] [Server thread/INFO]: /clone (<begin>|from)
-[18:33:15] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
-[18:33:15] [Server thread/INFO]: /data (merge|get|remove|modify)
-[18:33:15] [Server thread/INFO]: /datapack (enable|disable|list)
-[18:33:15] [Server thread/INFO]: /debug (start|stop|function)
-[18:33:15] [Server thread/INFO]: /defaultgamemode <gamemode>
-[18:33:15] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
-[18:33:15] [Server thread/INFO]: /effect (clear|give)
-[18:33:15] [Server thread/INFO]: /me <action>
-[18:33:15] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[18:33:15] [Server thread/INFO]: /experience (add|set|query)
-[18:33:15] [Server thread/INFO]: /xp -> experience
-[18:33:15] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[18:33:15] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
-[18:33:15] [Server thread/INFO]: /forceload (add|remove|query)
-[18:33:15] [Server thread/INFO]: /function <name> [<arguments>|with]
-[18:33:15] [Server thread/INFO]: /gamemode <gamemode> [<target>]
-[18:33:15] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
-[18:33:15] [Server thread/INFO]: /give <targets> <item> [<count>]
-[18:33:15] [Server thread/INFO]: /help [<command>]
-[18:33:15] [Server thread/INFO]: /item (replace|modify)
-[18:33:15] [Server thread/INFO]: /kick <targets> [<reason>]
-[18:33:15] [Server thread/INFO]: /kill [<targets>]
-[18:33:15] [Server thread/INFO]: /list [uuids]
-[18:33:15] [Server thread/INFO]: /locate (structure|biome|poi)
-[18:33:15] [Server thread/INFO]: /loot (replace|insert|give|spawn)
-[18:33:15] [Server thread/INFO]: /msg <targets> <message>
-[18:33:15] [Server thread/INFO]: /tell -> msg
-[18:33:15] [Server thread/INFO]: /w -> msg
-[18:33:15] [Server thread/INFO]: /particle <name> [<pos>]
-[18:33:15] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
-[18:33:15] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
-[18:33:15] [Server thread/INFO]: /random (value|roll|reset)
-[18:33:15] [Server thread/INFO]: /reload
-[18:33:15] [Server thread/INFO]: /recipe (give|take)
-[18:33:15] [Server thread/INFO]: /return (<value>|fail|run)
-[18:33:15] [Server thread/INFO]: /ride <target> (mount|dismount)
-[18:33:15] [Server thread/INFO]: /say <message>
-[18:33:15] [Server thread/INFO]: /schedule (function|clear)
-[18:33:15] [Server thread/INFO]: /scoreboard (objectives|players)
-[18:33:15] [Server thread/INFO]: /seed
-[18:33:15] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[18:33:15] [Server thread/INFO]: /spawnpoint [<targets>]
-[18:33:15] [Server thread/INFO]: /setworldspawn [<pos>]
-[18:33:15] [Server thread/INFO]: /spectate [<target>]
-[18:33:15] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[18:33:15] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[18:33:15] [Server thread/INFO]: /summon <entity> [<pos>]
-[18:33:15] [Server thread/INFO]: /tag <targets> (add|remove|list)
-[18:33:15] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
-[18:33:15] [Server thread/INFO]: /teammsg <message>
-[18:33:15] [Server thread/INFO]: /tm -> teammsg
-[18:33:15] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
-[18:33:15] [Server thread/INFO]: /tp -> teleport
-[18:33:15] [Server thread/INFO]: /tellraw <targets> <message>
-[18:33:15] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
-[18:33:15] [Server thread/INFO]: /time (set|add|query)
-[18:33:15] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[18:33:15] [Server thread/INFO]: /trigger <objective> [add|set]
-[18:33:15] [Server thread/INFO]: /weather (clear|rain|thunder)
-[18:33:15] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
-[18:33:15] [Server thread/INFO]: /jfr (start|stop)
-[18:33:15] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[18:33:15] [Server thread/INFO]: /banlist [ips|players]
-[18:33:15] [Server thread/INFO]: /ban <targets> [<reason>]
-[18:33:15] [Server thread/INFO]: /deop <targets>
-[18:33:15] [Server thread/INFO]: /op <targets>
-[18:33:15] [Server thread/INFO]: /pardon <targets>
-[18:33:15] [Server thread/INFO]: /pardon-ip <target>
-[18:33:15] [Server thread/INFO]: /perf (start|stop)
-[18:33:15] [Server thread/INFO]: /save-all [flush]
-[18:33:15] [Server thread/INFO]: /save-off
-[18:33:15] [Server thread/INFO]: /save-on
-[18:33:15] [Server thread/INFO]: /setidletimeout <minutes>
-[18:33:15] [Server thread/INFO]: /stop
-[18:33:15] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
-[18:33:30] [Server thread/INFO]: Stopping the server
-[18:33:30] [Server thread/INFO]: Stopping server
-[18:33:30] [Server thread/INFO]: Saving players
-[18:33:30] [Server thread/INFO]: Bemf lost connection: Server closed
-[18:33:30] [Server thread/INFO]: Bemf left the game
-[18:33:30] [Server thread/INFO]: Zumquirelle lost connection: Server closed
-[18:33:30] [Server thread/INFO]: Zumquirelle left the game
-[18:33:30] [Server thread/INFO]: Saving worlds
-[18:33:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:33:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:33:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:33:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:33:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:33:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:33:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:34:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:34:25] [ServerMain/INFO]: Loaded 7 recipes
+[18:34:25] [ServerMain/INFO]: Loaded 1280 advancements
+[18:34:26] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[18:34:26] [Server thread/INFO]: Loading properties
+[18:34:26] [Server thread/INFO]: Default game type: SURVIVAL
+[18:34:26] [Server thread/INFO]: Generating keypair
+[18:34:26] [Server thread/INFO]: Starting Minecraft server on 192.168.86.140:25565
+[18:34:26] [Server thread/INFO]: Using default channel type
+[18:34:26] [Server thread/INFO]: Preparing level "world"
+[18:34:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:34:29] [User Authenticator #1/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[18:34:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:34:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:34:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:34:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:34:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:34:30] [Worker-Main-5/INFO]: Preparing spawn area: 41%
+[18:34:30] [Server thread/INFO]: Time elapsed: 2714 ms
+[18:34:30] [Server thread/INFO]: Done (4.102s)! For help, type "help"
+[18:34:31] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50586] logged in with entity id 25 at (1835.300000011921, 72.02442408821369, -241.99873876536725)
+[18:34:31] [Server thread/INFO]: Zumquirelle joined the game
+[18:34:40] [User Authenticator #2/INFO]: UUID of player Indicte is c6516a09-de0d-4722-a937-aaee1a6fd891
+[18:34:40] [Server thread/INFO]: Indicte[/209.6.169.219:52030] logged in with entity id 289 at (-2638.167936480403, 63.0, -6818.49711142846)
+[18:34:40] [Server thread/INFO]: Indicte joined the game
+[18:34:51] [User Authenticator #3/INFO]: UUID of player Bemf is 258fbffa-8298-496c-b36b-2e67556655e5
+[18:34:51] [Server thread/INFO]: Bemf[/130.64.64.67:8861] logged in with entity id 642 at (-2670.8945387835233, 85.25220334025373, -6546.448219418518)
+[18:34:51] [Server thread/INFO]: Bemf joined the game
+[18:35:10] [User Authenticator #4/INFO]: UUID of player Scarabeetles is c81101c5-4901-42e0-a36c-9f758fd8401b
+[18:35:10] [Server thread/INFO]: Scarabeetles[/147.226.209.76:60224] logged in with entity id 1077 at (-1855.6945914984506, 7.0, -881.4829301988653)
+[18:35:10] [Server thread/INFO]: Scarabeetles joined the game
+[18:35:51] [Server thread/INFO]: <Bemf> cherry blossom
+[18:35:55] [Server thread/WARN]: Received expired chat: 'YAY'. Is the client/server system time unsynchronized?
+[18:35:55] [Server thread/INFO]: [Not Secure] <Scarabeetles> YAY
+[18:36:18] [Server thread/INFO]: <Bemf> its literally a single tree
+[18:36:21] [Server thread/INFO]: <Bemf> wat
+[18:36:27] [Server thread/WARN]: Received expired chat: 'o'. Is the client/server system time unsynchronized?
+[18:36:27] [Server thread/INFO]: [Not Secure] <Scarabeetles> o
+[18:36:30] [Server thread/INFO]: <Indicte> no theres a whole biome
+[18:36:36] [Server thread/WARN]: Received expired chat: 'cords?'. Is the client/server system time unsynchronized?
+[18:36:36] [Server thread/INFO]: [Not Secure] <Scarabeetles> cords?
+[18:36:40] [Server thread/INFO]: <Bemf> it says so in f3
+[18:36:51] [Server thread/INFO]: <Bemf> -2500 -6300
+[18:36:55] [Server thread/WARN]: Received expired chat: 'thank s'. Is the client/server system time unsynchronized?
+[18:36:55] [Server thread/INFO]: [Not Secure] <Scarabeetles> thank s
+[18:36:56] [Server thread/INFO]: <Indicte> -2500, -6300
+[18:36:59] [Server thread/INFO]: <Indicte> yea
+[18:37:02] [Server thread/INFO]: [Not Secure] [Server] alright ive made one last change (i promise lol) which should reduce the amount of time that the server takes to restart by ~20 seconds.
+[18:37:24] [Server thread/INFO]: [Not Secure] [Server] then im going away and everything should be fine
+[18:37:26] [Server thread/INFO]: Stopping the server
+[18:37:26] [Server thread/INFO]: Stopping server
+[18:37:26] [Server thread/INFO]: Saving players
+[18:37:26] [Server thread/INFO]: Zumquirelle lost connection: Server closed
+[18:37:26] [Server thread/INFO]: Zumquirelle left the game
+[18:37:26] [Server thread/INFO]: Bemf lost connection: Server closed
+[18:37:26] [Server thread/INFO]: Bemf left the game
+[18:37:26] [Server thread/INFO]: Saving worlds
+[18:37:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:37:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:37:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:37:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:37:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:37:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:37:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

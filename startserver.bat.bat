@@ -4,9 +4,9 @@
 
 java -Xmx4096M -Xms4096M -jar server.jar
 
-echo Press CTRL+C to cancel GitHub commit and stop server.
+echo Press CTRL+C to cancel GitHub commit.
 
-timeout 10
+timeout 3
 
 echo (%time%) committing changes to GitHub repo...
 
@@ -17,9 +17,9 @@ echo (%time%) pushing changes to GitHub repo...
 git push
 echo (%time%) changes pushed(? idk)
 
-echo Press CTRL+C to stop the server.
+echo Press CTRL+C to cancel server restart.
 
-timeout 10
+timeout 3
 
 echo (%time%) Restarting server...
 
