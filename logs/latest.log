@@ -1,34 +1,1364 @@
-[00:29:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:29:30] [ServerMain/INFO]: Loaded 7 recipes
-[00:29:30] [ServerMain/INFO]: Loaded 1280 advancements
-[00:29:31] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[00:29:31] [Server thread/INFO]: Loading properties
-[00:29:31] [Server thread/INFO]: Default game type: SURVIVAL
-[00:29:31] [Server thread/INFO]: Generating keypair
-[00:29:31] [Server thread/INFO]: Starting Minecraft server on 192.168.86.140:25565
-[00:29:31] [Server thread/INFO]: Using default channel type
-[00:29:31] [Server thread/INFO]: Preparing level "world"
-[00:29:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:29:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:29:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:29:34] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[00:29:34] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[00:29:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:29:35] [Server thread/INFO]: Time elapsed: 2475 ms
-[00:29:35] [Server thread/INFO]: Done (3.810s)! For help, type "help"
-[00:30:55] [User Authenticator #1/INFO]: UUID of player murder__goose is d18e994a-6034-49d7-a21a-d9ef5de4aff9
-[00:30:55] [Server thread/INFO]: murder__goose[/132.198.30.50:52293] logged in with entity id 69 at (-631.1014630268172, 79.0, 488.07698977477673)
-[00:30:55] [Server thread/INFO]: murder__goose joined the game
-[00:34:02] [Server thread/INFO]: murder__goose lost connection: Disconnected
-[00:34:02] [Server thread/INFO]: murder__goose left the game
-[08:25:43] [Server thread/INFO]: Stopping the server
-[08:25:43] [Server thread/INFO]: Stopping server
-[08:25:43] [Server thread/INFO]: Saving players
-[08:25:43] [Server thread/INFO]: Saving worlds
-[08:25:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[08:25:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[08:25:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[08:25:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:25:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:25:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:25:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08:26:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[08:26:08] [ServerMain/INFO]: Loaded 7 recipes
+[08:26:08] [ServerMain/INFO]: Loaded 1280 advancements
+[08:26:09] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[08:26:09] [Server thread/INFO]: Loading properties
+[08:26:09] [Server thread/INFO]: Default game type: SURVIVAL
+[08:26:09] [Server thread/INFO]: Generating keypair
+[08:26:09] [Server thread/INFO]: Starting Minecraft server on 192.168.86.140:25565
+[08:26:09] [Server thread/INFO]: Using default channel type
+[08:26:09] [Server thread/INFO]: Preparing level "world"
+[08:26:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:26:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:26:13] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[08:26:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[08:26:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:26:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[08:26:13] [Worker-Main-1/INFO]: Preparing spawn area: 84%
+[08:26:13] [Server thread/INFO]: Time elapsed: 2570 ms
+[08:26:13] [Server thread/INFO]: Done (3.890s)! For help, type "help"
+[10:05:38] [User Authenticator #1/INFO]: UUID of player Indicte is c6516a09-de0d-4722-a937-aaee1a6fd891
+[10:05:38] [Server thread/INFO]: Indicte[/209.6.169.219:53981] logged in with entity id 69 at (8028.193462512628, 63.0, -1149.2424328070817)
+[10:05:38] [Server thread/INFO]: Indicte joined the game
+[10:12:46] [Server thread/WARN]: Indicte moved too quickly! -10.090337556333907,-0.08609407931551516,0.012857767612331372
+[10:38:36] [User Authenticator #2/INFO]: UUID of player GunYoshi is 590b2cc8-9e48-4d9c-a2b4-03589655b0c3
+[10:38:36] [Server thread/INFO]: GunYoshi[/132.198.39.255:39303] logged in with entity id 15838 at (-677.0390941094831, 73.0, 435.6398524785139)
+[10:38:36] [Server thread/INFO]: GunYoshi joined the game
+[10:38:54] [Server thread/INFO]: <GunYoshi> hello!
+[10:38:57] [Server thread/INFO]: <Indicte> hiii
+[10:39:58] [User Authenticator #3/INFO]: UUID of player ASFJASJHALALF is 80d98bcf-8ba8-4a57-9f35-2bd618a9e3a8
+[10:39:58] [Server thread/INFO]: ASFJASJHALALF[/192.138.214.116:46469] logged in with entity id 17110 at (-2871.408348375881, 101.45197940749829, -6493.72621513727)
+[10:39:58] [Server thread/INFO]: ASFJASJHALALF joined the game
+[10:40:04] [Server thread/INFO]: <GunYoshi> hello!
+[10:40:09] [Server thread/INFO]: <Indicte> hi miles
+[10:40:14] [Server thread/INFO]: [ASFJASJHALALF: Teleported ASFJASJHALALF to -2499.500000, 255.000000, -6299.500000]
+[10:40:32] [Server thread/INFO]: <ASFJASJHALALF> yeah just confirmed
+[10:40:45] [Server thread/INFO]: <ASFJASJHALALF> theres a cherry blossom at -2500 -6300
+[10:40:50] [Server thread/INFO]: <ASFJASJHALALF> damn the server laggin laggin
+[10:40:50] [Server thread/INFO]: <Indicte> yes
+[10:40:54] [Server thread/INFO]: <GunYoshi> hell yeah
+[10:40:57] [Server thread/INFO]: <ASFJASJHALALF> either that or me
+[10:40:59] [Server thread/INFO]: <Indicte> its not lagging at all
+[10:41:02] [Server thread/INFO]: <Indicte> its you
+[10:41:11] [Server thread/INFO]: <ASFJASJHALALF> yeah my laptop is on like hella low power mode
+[10:41:22] [Server thread/INFO]: <ASFJASJHALALF> and apex legends started a steam update (i need to uninstall it)
+[10:41:31] [Server thread/INFO]: <ASFJASJHALALF> and im on wifi
+[10:41:33] [Server thread/INFO]: [ASFJASJHALALF: Teleported ASFJASJHALALF to Indicte]
+[10:41:44] [Server thread/INFO]: <ASFJASJHALALF> damn bish u got full diamond?
+[10:41:48] [Server thread/INFO]: <Indicte> yes
+[10:41:50] [Server thread/INFO]: <ASFJASJHALALF> w
+[10:41:56] [Server thread/INFO]: <Indicte> about to make it netherite lol
+[10:41:56] [Server thread/INFO]: [ASFJASJHALALF: Set own game mode to Creative Mode]
+[10:42:01] [Server thread/INFO]: GunYoshi lost connection: Disconnected
+[10:42:01] [Server thread/INFO]: GunYoshi left the game
+[10:42:21] [Server thread/INFO]: [ASFJASJHALALF: Gave 1 [Bedrock] to ASFJASJHALALF]
+[10:42:21] [Server thread/INFO]: <Indicte> i was 13000 blocks away from home
+[10:42:28] [Server thread/INFO]: <Indicte> i have been traveling
+[10:42:34] [Server thread/INFO]: <ASFJASJHALALF> nice
+[10:42:39] [Server thread/INFO]: <Indicte> awesome
+[10:42:47] [Server thread/INFO]: <Indicte> NOOO
+[10:42:50] [Server thread/INFO]: <Indicte> KEEP IT
+[10:42:52] [Server thread/INFO]: <ASFJASJHALALF> sorry
+[10:42:55] [Server thread/INFO]: <Indicte> as a monument
+[10:42:55] [Server thread/INFO]: <ASFJASJHALALF> dont tell anyone
+[10:42:57] [Server thread/INFO]: <ASFJASJHALALF> shhhhhh
+[10:43:00] [Server thread/INFO]: <ASFJASJHALALF> i was never here
+[10:43:01] [Server thread/INFO]: <Indicte> iscreen shot it
+[10:43:04] [Server thread/INFO]: [ASFJASJHALALF: Set own game mode to Spectator Mode]
+[10:43:10] [Server thread/INFO]: <ASFJASJHALALF> no one will ever know
+[10:43:14] [Server thread/INFO]: <ASFJASJHALALF> theyll never believe you
+[10:43:16] [Server thread/INFO]: <ASFJASJHALALF> except dashiell
+[10:43:17] [Server thread/INFO]: <Indicte> LOL
+[10:43:20] [Server thread/INFO]: <Indicte> i have the receipts
+[10:43:23] [Server thread/INFO]: <ASFJASJHALALF> he will definitely believe you
+[10:43:27] [Server thread/INFO]: <ASFJASJHALALF> reciepts can be fabricated
+[10:43:49] [Server thread/INFO]: ASFJASJHALALF lost connection: Disconnected
+[10:43:49] [Server thread/INFO]: ASFJASJHALALF left the game
+[10:43:58] [User Authenticator #4/INFO]: UUID of player GunYoshi is 590b2cc8-9e48-4d9c-a2b4-03589655b0c3
+[10:43:58] [Server thread/INFO]: GunYoshi[/132.198.39.255:31001] logged in with entity id 19377 at (-675.501494123405, 73.0, 439.6137159108334)
+[10:43:58] [Server thread/INFO]: GunYoshi joined the game
+[10:45:21] [Server thread/INFO]: <Indicte> welcome back
+[10:45:26] [Server thread/INFO]: <GunYoshi> lol hey
+[10:45:34] [Server thread/INFO]: <GunYoshi> im gonna make a villager breeder i think
+[10:45:38] [Server thread/INFO]: <Indicte> we have one
+[10:45:45] [Server thread/INFO]: <GunYoshi> oh word
+[10:45:46] [Server thread/INFO]: <Indicte> if youd like to use
+[10:45:47] [Server thread/INFO]: <GunYoshi> where?
+[10:45:53] [Server thread/INFO]: <Indicte> at my base
+[10:46:05] [Server thread/INFO]: <GunYoshi> do yall have an iron farm going?
+[10:46:15] [Server thread/INFO]: <Indicte> not quite yet we will work on that soon enough tho
+[10:46:57] [Server thread/INFO]: <GunYoshi> where is ur base lol
+[10:47:20] [Server thread/INFO]: <Indicte> -1845 - 852
+[10:47:25] [Server thread/INFO]: <GunYoshi> hmmm
+[10:47:39] [Server thread/INFO]: <GunYoshi> ill head over in a bit but i may just make one here too since its so far
+[10:48:02] [Server thread/INFO]: <Indicte> oh i see how it is
+[10:48:10] [Server thread/INFO]: <GunYoshi> also because im evil and mean
+[10:51:13] [Server thread/INFO]: [GunYoshi: Triggered [as_help]]
+[10:51:30] [Server thread/INFO]: [GunYoshi: Triggered [as_help] (set value to 3)]
+[10:51:35] [Server thread/INFO]: [GunYoshi: Triggered [as_help] (set value to 3)]
+[10:54:49] [Server thread/INFO]: [GunYoshi: Triggered [toggle coordinates hud]]
+[10:56:52] [Server thread/INFO]: Indicte has made the advancement [What a Deal!]
+[10:59:23] [User Authenticator #5/INFO]: UUID of player Bemf is 258fbffa-8298-496c-b36b-2e67556655e5
+[10:59:23] [Server thread/INFO]: Bemf[/130.64.64.67:65367] logged in with entity id 24450 at (-1853.8265725153003, 7.0, -879.9895530867401)
+[10:59:23] [Server thread/INFO]: Bemf joined the game
+[10:59:30] [Server thread/INFO]: <Bemf> morning
+[10:59:42] [Server thread/INFO]: <GunYoshi> hey!
+[11:01:39] [Server thread/INFO]: Indicte lost connection: Timed out
+[11:01:39] [Server thread/INFO]: Indicte left the game
+[11:01:55] [User Authenticator #6/INFO]: UUID of player Indicte is c6516a09-de0d-4722-a937-aaee1a6fd891
+[11:01:55] [Server thread/INFO]: Indicte[/209.6.169.219:54183] logged in with entity id 25329 at (-1824.699999988079, 63.94213599742269, -888.5124999880791)
+[11:01:55] [Server thread/INFO]: Indicte joined the game
+[11:03:33] [Server thread/INFO]: <Bemf> hmm should i use an axe or sword as a main weapon
+[11:03:40] [Server thread/INFO]: GunYoshi lost connection: Disconnected
+[11:03:40] [Server thread/INFO]: GunYoshi left the game
+[11:04:03] [User Authenticator #7/INFO]: UUID of player GunYoshi is 590b2cc8-9e48-4d9c-a2b4-03589655b0c3
+[11:04:04] [Server thread/INFO]: GunYoshi[/132.198.39.255:60461] logged in with entity id 25831 at (-732.5580702062242, 66.0, 568.2168284632198)
+[11:04:04] [Server thread/INFO]: GunYoshi joined the game
+[11:04:15] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:15] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:15] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:15] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:15] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:15] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:15] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:15] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:15] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:15] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:15] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:15] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:15] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:16] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:16] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:16] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:16] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:16] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:16] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:16] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:16] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:16] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:16] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:16] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:16] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:16] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:16] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:16] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:16] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:16] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:16] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:16] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:16] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:17] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:17] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:17] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:17] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:17] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:17] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:17] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:17] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:17] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:17] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:17] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:17] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:17] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:17] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:17] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:17] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:17] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:17] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:17] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:17] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:18] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:18] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:18] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:18] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:18] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:18] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:18] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:18] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:18] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:18] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:18] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:18] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:18] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:18] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:18] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:18] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:18] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:18] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:18] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:18] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:19] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:19] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:19] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:19] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:19] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:19] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:19] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:19] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:19] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:19] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:19] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:19] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:19] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:19] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:19] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:19] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:19] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:19] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:19] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:19] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:20] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:20] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:20] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:20] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:20] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:20] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:20] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:20] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:20] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:20] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:20] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:20] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:20] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:20] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:20] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:20] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:20] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:20] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:20] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:20] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:21] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:21] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:21] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:21] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:21] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:21] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:21] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:21] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:21] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:21] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:21] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:21] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:21] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:21] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:21] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:21] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:21] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:21] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:21] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:21] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:22] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:22] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:22] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:22] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:22] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:22] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:22] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:22] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:22] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:22] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:22] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:22] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:22] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:22] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:22] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:22] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:22] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:22] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:22] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:22] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:23] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:23] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:23] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:23] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:23] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:23] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:23] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:23] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:23] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:23] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:23] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:23] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:23] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:23] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:23] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:23] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:23] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:23] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:23] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:23] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:24] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:24] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:24] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:24] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:24] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:24] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:24] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:24] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:24] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:24] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:24] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:24] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:24] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:24] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:24] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:24] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:24] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:24] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:24] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:24] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:25] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:25] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:25] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:25] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:25] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:25] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:25] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:25] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:25] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:25] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:25] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:25] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:25] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:25] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:25] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:25] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:25] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:25] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:25] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:25] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:26] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:26] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:26] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:26] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:26] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:26] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:26] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:26] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:26] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:26] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:26] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:26] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:26] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:26] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:26] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:26] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:26] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:26] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:26] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:26] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:27] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:27] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:27] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:27] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:27] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:27] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:27] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:27] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:27] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:27] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:27] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:27] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:27] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:27] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:27] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:27] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:27] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:27] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:27] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:27] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:28] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:28] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:28] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:28] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:28] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:28] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:28] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:28] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:28] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:28] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:28] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:28] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:28] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:28] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:28] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:28] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:28] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:28] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:28] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:28] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:29] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:29] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:29] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:29] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:29] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:29] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:29] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:29] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:29] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:29] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:29] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:29] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:29] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:29] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:29] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:29] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:29] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:29] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:29] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:29] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:30] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:30] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:30] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:30] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:30] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:30] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:30] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:30] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:30] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:30] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:30] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:30] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:30] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:30] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:30] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:30] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:30] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:30] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:30] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:30] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:31] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:31] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:31] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:31] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:31] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:31] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:31] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:31] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:31] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:31] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:31] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:31] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:31] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:31] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:31] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:31] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:31] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:31] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:31] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:31] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:32] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:32] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:32] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:32] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:32] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:32] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:32] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:32] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:32] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:32] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:32] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:32] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:32] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:32] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:32] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:32] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:32] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:32] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:32] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:32] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:33] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:33] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:33] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:33] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:33] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:33] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:33] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:33] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:33] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:33] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:33] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:33] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:33] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:33] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:33] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:33] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:33] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:33] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:33] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:33] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:34] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:34] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:34] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:34] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:34] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:34] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:34] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:34] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:34] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:34] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:34] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:34] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:34] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:34] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:34] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:34] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:34] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:34] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:34] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:34] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:35] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:35] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:35] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:35] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:35] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:35] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:35] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:35] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:35] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:35] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:35] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:35] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:35] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:35] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:35] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:35] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:35] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:35] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:35] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:35] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:36] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:36] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:36] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:36] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:36] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:36] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:36] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:36] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:36] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:36] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:36] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:36] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:36] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:36] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:36] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:36] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:36] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:36] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:36] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:36] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:37] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:37] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:37] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:37] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:37] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:37] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:37] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:37] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:37] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:37] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:37] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:37] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:37] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:37] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:37] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:37] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:37] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:37] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:37] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:37] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:38] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:38] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:38] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:38] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:38] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:38] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:38] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:38] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:38] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:38] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:38] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:38] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:38] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:38] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:38] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:38] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:38] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:38] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:38] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:38] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:39] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:39] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:39] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:39] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:39] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:39] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:39] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:39] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:39] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:39] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:39] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:39] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:39] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:39] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:39] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:39] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:39] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:39] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:39] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:39] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:40] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:40] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:40] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:40] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:40] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:40] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:40] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:40] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:40] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:40] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:40] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:40] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:40] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:40] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:40] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:40] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:40] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:40] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:40] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:40] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:41] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:41] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:41] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:41] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:41] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:41] [Server thread/WARN]: GunYoshi was kicked for floating too long!
+[11:04:41] [Server thread/INFO]: GunYoshi lost connection: Disconnected
+[11:04:41] [Server thread/INFO]: GunYoshi left the game
+[11:04:47] [Server thread/INFO]: <Indicte> come here
+[11:05:00] [Server thread/INFO]: <Indicte> shoukld we kill this guy
+[11:05:21] [Server thread/INFO]: <Indicte> LOL WHERE IS HE
+[11:05:39] [Server thread/INFO]: <Bemf> we should do a raid
+[11:05:43] [Server thread/INFO]: <Indicte> yeah
+[11:05:47] [Server thread/INFO]: <Bemf> here tho?
+[11:05:52] [Server thread/INFO]: <Bemf> could be risky
+[11:05:55] [Server thread/INFO]: <Indicte> there was a guy with a flag idk where he went
+[11:06:29] [Server thread/INFO]: <Bemf> nice
+[11:06:38] [User Authenticator #8/INFO]: UUID of player GunYoshi is 590b2cc8-9e48-4d9c-a2b4-03589655b0c3
+[11:06:52] [Server thread/INFO]: <Indicte> we could go to a different village
+[11:07:01] [Server thread/INFO]: <Bemf> ya
+[11:07:05] [Server thread/INFO]: <Indicte> wanna go to that pillager outpost i found?
+[11:07:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@56dd2a01[id=590b2cc8-9e48-4d9c-a2b4-03589655b0c3,name=GunYoshi,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTcwNTkzOTU5NzIxNSwKICAicHJvZmlsZUlkIiA6ICI1OTBiMmNjODllNDg0ZDljYTJiNDAzNTg5NjU1YjBjMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJHdW5Zb3NoaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iY2I5NzBiMDNlYjA1Nzg4NGJhNDI4MjU3Nzg1ZWY4Y2U5YmVhYjMzYzYwNWE1ODQyNTRhMzE2MGMxNzU1NTVlIgogICAgfQogIH0KfQ==, signature=JwLS/U2qaicjtwC7qERmnccM9FRnsUqUk+UZtwI5ljrw0Q/E4Fum5r+YDGaExkvFFfruXJxSl+mnEo88ySfvUKrI5gpC1z6b8q5Ai5ZAo4BH2dvYHVh7vdH2jUlmtoahujpKRsoPbveDb3XSnr6PwQW/l+HTwa6aWZlePLG8cdugWZ9E0mULxQtVXs08w9mrTm/2xc85TrZC1OG0SQKBeUpnjxzCaVSvuIiWSJBndAxT+KjxkcPNP5CRj54NRIVyyWVAbC1zEgzKt2GZCj7dQd4w3iezmQ2h/FANWGfXeUwnGlzyh0MHzHHN/cRkG9h+r7Wg5AdDiqRTxHrqp0AP5t5rO3vCZRmmBCycyEOHvv5NViT3Wtgjdnl3ZfG2tAaxe0ydXb4V+MRBzgpJFvxHmNdDMCJxEB5r2DgEky/JedDXAsdibKKBq1F/EqHRws44/apbY1KMI5LUrq35oy25fptZzDonNiPMPre5FcUUQUxciQKGUek0wcK34xwATvrbB5BCDROO0yOBLova4D+IUJRA2+JxI/vJevg1mCBwnznSrd9r8k3Ut7y4CYoxdDDaBd2BluHOqqpap+iWJNOCoKzqIV/Vc2ESBgpx3ysj7jTH6NzVC3eHSFO0ofiFrs7vaoHFASchr3WkjjEME8oIPCOpOnG09nRBl1XAaWH+9/A=]]}] lost connection: Timed out
+[11:07:23] [Server thread/INFO]: <Bemf> oh wait
+[11:07:47] [Server thread/INFO]: <Bemf> give him an item
+[11:08:31] [Server thread/INFO]: <Indicte> so should we go
+[11:08:35] [Server thread/INFO]: <Bemf> sure
+[11:08:38] [Server thread/INFO]: <Indicte> ok
+[11:08:42] [Server thread/INFO]: <Indicte> let me dump things
+[11:08:46] [Server thread/INFO]: <Bemf> got a horse?
+[11:08:54] [Server thread/INFO]: <Indicte> i can get one yea
+[11:09:57] [Server thread/INFO]: Indicte has made the advancement [You've Got a Friend in Me]
+[11:10:43] [Server thread/INFO]: <Bemf> lemme grab a bed
+[11:11:52] [Server thread/INFO]: <Indicte> oh shit
+[11:11:56] [Server thread/INFO]: <Indicte> i forget where it is lol
+[11:12:01] [Server thread/INFO]: <Bemf> lmao
+[11:12:04] [Server thread/INFO]: <Indicte> wait i have screenshot give me a sec
+[11:13:40] [User Authenticator #9/INFO]: UUID of player GunYoshi is 590b2cc8-9e48-4d9c-a2b4-03589655b0c3
+[11:13:40] [Server thread/INFO]: GunYoshi[/132.198.39.255:27584] logged in with entity id 27940 at (-731.6845316352999, 67.16610926093821, 568.3608132233229)
+[11:13:40] [Server thread/INFO]: GunYoshi joined the game
+[11:13:53] [Server thread/INFO]: <GunYoshi> hello again lol
+[11:14:02] [Server thread/INFO]: <GunYoshi> server booted me and then minecraft made me sign in lol
+[11:14:09] [Server thread/INFO]: <Indicte> ok so i dont have a screenshot lol
+[11:14:43] [Server thread/INFO]: <Indicte> i thought i had the coords somewhere
+[11:15:13] [Server thread/INFO]: <Indicte> it was towards the cherry blossom
+[11:15:18] [Server thread/INFO]: <Indicte> we can just search there??
+[11:15:24] [Server thread/INFO]: <Indicte> it was in a spruce biome
+[11:15:25] [Server thread/INFO]: <Bemf> i found one closer but forgot to get coords
+[11:15:31] [Server thread/INFO]: <Bemf> :l
+[11:15:50] [Server thread/INFO]: <Indicte> wanna find the one near the cherry blossom?
+[11:16:00] [Server thread/INFO]: <Bemf> sure
+[11:16:15] [Server thread/INFO]: <Bemf> why doesnt netherite horse armor exist
+[11:17:03] [Server thread/INFO]: <Bemf> we should get leads
+[11:18:01] [Server thread/INFO]: <Bemf> i shoulda brought wheat
+[11:18:12] [Server thread/INFO]: <Bemf> my horse has low health
+[11:18:29] [Server thread/INFO]: <Bemf> idk where im going
+[11:18:50] [Server thread/INFO]: <Indicte> we must boat
+[11:19:26] [Server thread/INFO]: <Indicte> -2068 -1508
+[11:20:22] [Server thread/INFO]: <Indicte> LOL
+[11:21:31] [Server thread/INFO]: GunYoshi lost connection: Disconnected
+[11:21:31] [Server thread/INFO]: GunYoshi left the game
+[11:21:41] [User Authenticator #10/INFO]: UUID of player GunYoshi is 590b2cc8-9e48-4d9c-a2b4-03589655b0c3
+[11:21:41] [Server thread/INFO]: GunYoshi[/132.198.39.255:49620] logged in with entity id 31839 at (-732.1360972510026, 69.0, 571.6999999880791)
+[11:21:41] [Server thread/INFO]: GunYoshi joined the game
+[11:22:12] [Server thread/INFO]: <GunYoshi> please odnt sleep
+[11:22:14] [Server thread/INFO]: <GunYoshi> sorry
+[11:22:19] [Server thread/INFO]: <Indicte> dw
+[11:22:21] [Server thread/INFO]: <GunYoshi> gimme like one sec to get villagers situated
+[11:22:27] [Server thread/INFO]: <Indicte> we are boating lol
+[11:22:38] [Server thread/INFO]: <GunYoshi> ok wonderful
+[11:25:13] [Server thread/INFO]: <Bemf> where u go
+[11:25:33] [Server thread/INFO]: GunYoshi was slain by Zombie
+[11:25:35] [Server thread/WARN]: GunYoshi moved too quickly! 703.7829807147589,16.0,-541.6226113541102
+[11:25:38] [Server thread/INFO]: <GunYoshi> ITS SO OVER
+[11:25:46] [Server thread/INFO]: [GunYoshi: Triggered [toggle coordinates hud]]
+[11:25:46] [Server thread/INFO]: <Bemf> wait
+[11:25:48] [Server thread/INFO]: <Bemf> wait
+[11:25:50] [Server thread/INFO]: <GunYoshi> had 24 levels
+[11:25:56] [Server thread/INFO]: <Bemf> ive never seen one of these
+[11:25:59] [Server thread/INFO]: <Indicte> OH YEAH
+[11:26:03] [Server thread/INFO]: <Indicte> we need a brush
+[11:26:09] [Server thread/INFO]: <Bemf> look for chicken?
+[11:27:03] [Server thread/INFO]: <Bemf> or just come back later
+[11:27:26] [Server thread/INFO]: <Indicte> we could i cant find a chicken
+[11:28:09] [Server thread/INFO]: <Bemf> you can swap the item by right clicking with bare hand
+[11:28:17] [Server thread/INFO]: <Indicte> put coord
+[11:28:37] [Server thread/INFO]: <Bemf> lets just come back
+[11:28:56] [Server thread/INFO]: <GunYoshi> woah i also just found a brush place LOL
+[11:29:01] [Server thread/INFO]: <Bemf> nice
+[11:31:35] [Server thread/INFO]: <Bemf> one sec
+[11:33:54] [Server thread/INFO]: <Indicte> well shut
+[11:33:55] [Server thread/INFO]: <Indicte> shit
+[11:33:59] [Server thread/INFO]: <Indicte> i thought i t was here ngl
+[11:34:51] [Server thread/INFO]: <Indicte> I FOUND IT OMGw
+[11:34:53] [Server thread/INFO]: <Indicte> IM A GENIUS
+[11:36:03] [Server thread/INFO]: <Bemf> so just waiting for banner guys?
+[11:36:08] [Server thread/INFO]: <Indicte> yes
+[11:36:13] [Server thread/INFO]: <Indicte> they spawn here right?
+[11:36:16] [Server thread/INFO]: <Bemf> ya
+[11:36:48] [Server thread/INFO]: Indicte has made the advancement [Who's the Pillager Now?]
+[11:37:16] [Server thread/INFO]: <Bemf> oh you need copper for a brush
+[11:37:20] [Server thread/INFO]: <Indicte> ye
+[11:37:37] [Server thread/INFO]: <Bemf> ill look for a cave
+[11:37:47] [Server thread/INFO]: <Indicte> ok ill try to get bad omen
+[11:39:41] [Server thread/INFO]: <GunYoshi> -443, 46
+[11:40:13] [Server thread/INFO]: <Indicte> thanks!
+[11:41:47] [Server thread/INFO]: <Indicte> are we sure they spawn here
+[11:41:53] [Server thread/INFO]: <Bemf> ya
+[11:41:56] [Server thread/INFO]: <Indicte> ok
+[11:42:54] [Server thread/INFO]: <Indicte> run away from the structure then go back
+[11:44:53] [Server thread/INFO]: <Indicte> are we just unlucky
+[11:45:00] [Server thread/INFO]: <Bemf> i guess
+[11:46:46] [Server thread/INFO]: <Indicte> so there is a 6% chance theyll spawn with abnne
+[11:47:00] [Server thread/INFO]: Indicte has made the advancement [Voluntary Exile]
+[11:47:03] [Server thread/INFO]: <Indicte> WOOO
+[11:47:20] [Server thread/INFO]: <Indicte> lets find a village
+[11:47:28] [Server thread/INFO]: <Indicte> i think there is one on this islanmd
+[11:47:32] [Server thread/INFO]: <Bemf> got any coords of other ones?
+[11:47:41] [Server thread/INFO]: <Indicte> no\
+[11:48:27] [Server thread/INFO]: <Bemf> where u go
+[11:48:34] [Server thread/INFO]: <Indicte> looking for village
+[11:48:53] [Server thread/INFO]: <Bemf> i kinda wanna go dig up that thing
+[11:49:01] [Server thread/INFO]: <Indicte> wanna go back?
+[11:49:25] [Server thread/INFO]: <Indicte> do u have the coords for it
+[11:49:28] [Server thread/INFO]: <Bemf> ya
+[11:49:56] [Server thread/INFO]: <Indicte> find me im at -2956 -4622
+[11:50:03] [Server thread/INFO]: <Indicte> and then take me there
+[11:52:02] [Server thread/INFO]: <Indicte> the brushes have durability btw
+[11:52:12] [Server thread/INFO]: <Bemf> ah
+[11:52:14] [Server thread/WARN]: Oak Boat (vehicle of GunYoshi) moved wrongly! 0.7230585105717182
+[11:52:34] [Server thread/WARN]: Acacia Boat (vehicle of Indicte) moved wrongly! 1.2066524704123367
+[11:56:20] [Server thread/INFO]: <Indicte> i gave u disc
+[11:56:24] [Server thread/INFO]: <Bemf> oh sick
+[11:56:29] [Server thread/INFO]: <Bemf> nice
+[11:56:30] [Server thread/INFO]: <Bemf> thx
+[11:56:40] [Server thread/INFO]: <Indicte> cool
+[11:56:49] [Server thread/INFO]: <Indicte> u may keep
+[11:57:58] [Server thread/INFO]: Bemf has made the advancement [Respecting the Remnants]
+[11:58:02] [Server thread/INFO]: <Indicte> ooooh
+[11:58:09] [Server thread/INFO]: <GunYoshi> nice!
+[11:58:11] [Server thread/INFO]: <Indicte> whats that
+[11:58:18] [Server thread/INFO]: Indicte has made the advancement [Respecting the Remnants]
+[11:59:38] [Server thread/INFO]: <Indicte> i got a hanging sign lol
+[11:59:45] [Server thread/INFO]: <Bemf> weird
+[12:00:09] [Server thread/INFO]: <Indicte> you can find armor trims in these things
+[12:00:16] [Server thread/INFO]: <Bemf> oo
+[12:03:23] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-2548, y=52, z=-3643} hx{x=-2550, y=53, z=-3646}
+[12:04:03] [Server thread/INFO]: <Bemf> niiice
+[12:04:40] [Server thread/INFO]: <Indicte> this is so cool\
+[12:04:49] [Server thread/INFO]: <Bemf> ya
+[12:05:14] [Server thread/INFO]: <Bemf> wait can i get that pottery shard back
+[12:05:26] [Server thread/INFO]: <Indicte> i have a lot of them
+[12:05:30] [Server thread/INFO]: <Bemf> oh
+[12:05:35] [Server thread/INFO]: <Indicte> do u want them all
+[12:05:40] [Server thread/INFO]: <Bemf> only if you dont
+[12:05:54] [Server thread/INFO]: <Indicte> idk i wanna see what it looks like pieced togteher
+[12:05:58] [Server thread/INFO]: <Bemf> ya
+[12:05:59] [Server thread/INFO]: <Indicte> idc
+[12:06:01] [Server thread/INFO]: <Indicte> i meantr
+[12:08:03] [Server thread/INFO]: [GunYoshi: Triggered [toggle coordinates hud]]
+[12:08:06] [Server thread/INFO]: <Bemf> i have a bunch now too
+[12:08:44] [Server thread/INFO]: <Bemf> ive got a class in a bit so if you wanna do a raid we should probably go
+[12:09:00] [Server thread/INFO]: <Indicte> ok
+[12:09:06] [Server thread/INFO]: <Indicte> my inventory is like so full
+[12:10:23] [Server thread/INFO]: <Indicte> wanna just do it back at home?
+[12:10:34] [Server thread/INFO]: <Bemf> i guess we can fully cover the villagers
+[12:10:40] [Server thread/INFO]: <Indicte> wait nvm
+[12:10:48] [Server thread/INFO]: <Bemf> oh you found another allay?
+[12:10:50] [Server thread/INFO]: <Indicte> bc the guy can shoot through blocks
+[12:11:01] [Server thread/INFO]: <Indicte> i have 2 more yea
+[12:11:05] [Server thread/INFO]: <Bemf> nice
+[12:11:15] [Server thread/INFO]: <Indicte> i didnt see them the first time ig
+[12:11:21] [Server thread/INFO]: GunYoshi lost connection: Disconnected
+[12:11:21] [Server thread/INFO]: GunYoshi left the game
+[12:11:33] [User Authenticator #11/INFO]: UUID of player GunYoshi is 590b2cc8-9e48-4d9c-a2b4-03589655b0c3
+[12:11:33] [Server thread/INFO]: GunYoshi[/132.198.39.255:62361] logged in with entity id 61073 at (-675.5171914648719, 72.0, 449.01576540643316)
+[12:11:33] [Server thread/INFO]: GunYoshi joined the game
+[12:11:40] [Server thread/INFO]: <Indicte> i think there was one in the acacia biome
+[12:11:54] [Server thread/INFO]: <Bemf> ill follow you
+[12:12:47] [Server thread/INFO]: <Bemf> lol
+[12:13:05] [Server thread/INFO]: <Indicte> you have my boat
+[12:14:06] [Server thread/INFO]: <Bemf> oo nice
+[12:15:57] [Server thread/INFO]: <Bemf> how many totems drop from raids?
+[12:16:05] [Server thread/INFO]: <Indicte> like 5 ish idk
+[12:18:02] [Server thread/INFO]: <Bemf> hmm
+[12:18:07] [Server thread/INFO]: <Bemf> i have like 30 mins
+[12:18:11] [Server thread/INFO]: <Indicte> ok
+[12:18:18] [Server thread/INFO]: <Indicte> i cant find village
+[12:18:27] [Server thread/INFO]: <Bemf> if we had our horses
+[12:18:39] [Server thread/INFO]: <Indicte> do u wanna exlpore this instead
+[12:19:04] [Server thread/INFO]: <Bemf> well you cant go home until we do the raid
+[12:19:21] [Server thread/INFO]: <Bemf> i mean you can do it without me ig
+[12:19:25] [Server thread/INFO]: <Indicte> no
+[12:19:28] [Server thread/INFO]: <Indicte> lets go find it
+[12:22:06] [Server thread/INFO]: GunYoshi lost connection: Disconnected
+[12:22:06] [Server thread/INFO]: GunYoshi left the game
+[12:22:49] [Server thread/INFO]: <Indicte> thats funny
+[12:22:55] [Server thread/INFO]: <Bemf> lets mark it down
+[12:23:15] [Server thread/INFO]: <Bemf> this is the one i found
+[12:23:20] [User Authenticator #12/INFO]: UUID of player GunYoshi is 590b2cc8-9e48-4d9c-a2b4-03589655b0c3
+[12:23:20] [Server thread/INFO]: GunYoshi[/132.198.39.255:60707] logged in with entity id 68084 at (-677.9318746479674, 73.0, 436.0601422945657)
+[12:23:20] [Server thread/INFO]: GunYoshi joined the game
+[12:23:24] [Server thread/INFO]: GunYoshi lost connection: Disconnected
+[12:23:24] [Server thread/INFO]: GunYoshi left the game
+[12:23:24] [Server thread/INFO]: <Bemf> oh wait
+[12:23:27] [Server thread/INFO]: <Bemf> village this way
+[12:23:29] [Server thread/INFO]: <Bemf> i remember
+[12:24:20] [Server thread/INFO]: <Indicte> getready
+[12:24:25] [Server thread/INFO]: <Bemf> slp
+[12:26:06] [Server thread/INFO]: Villager cev['Villager'/68559, l='ServerLevel[world]', x=-2337.90, y=61.00, z=-1413.92] died, message: 'Villager was slain by Vindicator'
+[12:26:11] [Server thread/INFO]: Villager cev['Villager'/68560, l='ServerLevel[world]', x=-2348.68, y=63.00, z=-1422.30] died, message: 'Villager was slain by Vindicator'
+[12:27:05] [Server thread/INFO]: <Bemf> here
+[12:27:59] [Server thread/INFO]: <Bemf> here
+[12:29:24] [Server thread/INFO]: Villager cev['Nitwit'/68662, l='ServerLevel[world]', x=-2367.37, y=60.94, z=-1379.44] died, message: 'Nitwit was slain by Vindicator'
+[12:29:26] [Server thread/INFO]: Villager cev['Villager'/68698, l='ServerLevel[world]', x=-2369.05, y=60.00, z=-1378.50] died, message: 'Villager was slain by Vindicator'
+[12:29:30] [Server thread/INFO]: Villager cev['Villager'/68696, l='ServerLevel[world]', x=-2361.92, y=59.00, z=-1374.83] died, message: 'Villager was slain by Vindicator'
+[12:29:32] [Server thread/INFO]: Villager cev['Cleric'/68701, l='ServerLevel[world]', x=-2354.30, y=60.67, z=-1373.51] died, message: 'Cleric was slain by Vindicator'
+[12:29:36] [Server thread/INFO]: Villager cev['Villager'/68697, l='ServerLevel[world]', x=-2354.47, y=55.00, z=-1376.48] died, message: 'Villager was slain by Vindicator'
+[12:29:37] [Server thread/INFO]: Villager cev['Farmer'/68660, l='ServerLevel[world]', x=-2353.50, y=53.10, z=-1376.06] died, message: 'Farmer was slain by Vindicator'
+[12:31:51] [Server thread/INFO]: <Indicte> i think they killed all the villagers
+[12:32:05] [Server thread/INFO]: <Bemf> we lost?
+[12:32:09] [Server thread/INFO]: <Indicte> think so
+[12:32:18] [Server thread/INFO]: <Bemf> welp
+[12:32:25] [Server thread/INFO]: <Indicte> bc we would have had hero of the village
+[12:32:28] [Server thread/INFO]: <Bemf> how much for the totem?
+[12:32:40] [Server thread/INFO]: <Indicte> do u not have one?
+[12:32:43] [Server thread/INFO]: <Bemf> no
+[12:32:50] [Server thread/INFO]: <Indicte> damn
+[12:32:53] [Server thread/INFO]: <Indicte> idk
+[12:32:55] [Server thread/INFO]: <Indicte> uh
+[12:33:00] [Server thread/INFO]: <Indicte> you can just have it lol
+[12:33:18] [Server thread/INFO]: <Bemf> i can give more later
+[12:33:28] [Server thread/INFO]: <Bemf> welp
+[12:33:29] [Server thread/INFO]: <Bemf> thx
+[12:34:16] [Server thread/INFO]: <Indicte> what no
+[12:34:18] [Server thread/INFO]: <Indicte> now
+[12:34:28] [Server thread/INFO]: <Bemf> ?
+[12:35:01] [Server thread/INFO]: <Bemf> imma grab a hors
+[12:35:19] [Server thread/INFO]: <Indicte> did u put the coords for the outpost
+[12:35:28] [Server thread/INFO]: <Bemf> oops no
+[12:35:53] [Server thread/INFO]: <Indicte> do u rememberwhere it is from here lol
+[12:36:01] [Server thread/INFO]: <Bemf> im there
+[12:36:06] [Server thread/INFO]: <Bemf> opposite way from home
+[12:36:28] [Server thread/INFO]: <Indicte> type them in coordinates
+[12:37:54] [Server thread/INFO]: <Bemf> lol
+[12:38:14] [Server thread/INFO]: <Bemf> mineshaft?
+[12:38:20] [Server thread/INFO]: <Indicte> sure
+[12:38:34] [Server thread/INFO]: <Indicte> my horsey is slow
+[12:39:56] [Server thread/INFO]: <Indicte> do u remember where lol
+[12:39:59] [Server thread/INFO]: <Bemf> nope
+[12:40:26] [Server thread/INFO]: <Bemf> meh
+[12:41:19] [Server thread/INFO]: <Bemf> idk
+[12:41:22] [Server thread/INFO]: <Indicte> LOl
+[12:42:02] [Server thread/INFO]: <Bemf> check nether?
+[12:42:21] [Server thread/INFO]: <Bemf> nope
+[12:43:13] [Server thread/INFO]: <Bemf> maybe not
+[12:43:25] [Server thread/INFO]: <Indicte> we could get home faster this way
+[12:43:26] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-336, y=53, z=-242} hx{x=-334, y=57, z=-242}
+[12:43:26] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-336, y=53, z=-242} hx{x=-334, y=57, z=-242}
+[12:43:32] [Server thread/INFO]: <Indicte> look
+[12:43:45] [Server thread/INFO]: <Bemf> i dont see anything
+[12:43:55] [Server thread/INFO]: <Indicte> increase render distance
+[12:43:59] [Server thread/INFO]: <Indicte> our portal is over there
+[12:44:30] [Server thread/INFO]: <Bemf> got fire res potion?
+[12:45:16] [Server thread/INFO]: <Bemf> welp
+[12:45:18] [Server thread/INFO]: <Indicte> it glitched lol
+[12:45:38] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-330, y=56, z=-232} hx{x=-329, y=55, z=-232}
+[12:45:38] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-330, y=56, z=-232} hx{x=-329, y=55, z=-232}
+[12:45:38] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-330, y=56, z=-232} hx{x=-329, y=55, z=-232}
+[12:45:38] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-330, y=56, z=-232} hx{x=-329, y=55, z=-232}
+[12:45:38] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-330, y=56, z=-232} hx{x=-329, y=55, z=-232}
+[12:45:38] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-330, y=56, z=-232} hx{x=-329, y=55, z=-232}
+[12:45:38] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-330, y=56, z=-232} hx{x=-329, y=55, z=-232}
+[12:45:38] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-330, y=56, z=-232} hx{x=-329, y=55, z=-232}
+[12:45:38] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-330, y=56, z=-232} hx{x=-329, y=55, z=-232}
+[12:46:21] [Server thread/INFO]: <Indicte> my poor allays
+[12:46:29] [Server thread/INFO]: <Bemf> theyre somehow alive
+[12:46:38] [Server thread/INFO]: <Bemf> i think they automatically regen
+[12:46:40] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-335, y=37, z=-230} hx{x=-334, y=35, z=-235}
+[12:46:40] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-335, y=37, z=-230} hx{x=-334, y=35, z=-235}
+[12:46:44] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-332, y=38, z=-240} hx{x=-330, y=39, z=-248}
+[12:46:44] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-332, y=38, z=-240} hx{x=-330, y=39, z=-248}
+[12:47:01] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-325, y=49, z=-221} hx{x=-325, y=49, z=-220}
+[12:47:01] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-325, y=49, z=-221} hx{x=-325, y=49, z=-220}
+[12:47:01] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-325, y=49, z=-221} hx{x=-325, y=49, z=-220}
+[12:47:02] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-325, y=49, z=-221} hx{x=-325, y=49, z=-220}
+[12:47:02] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-325, y=49, z=-221} hx{x=-325, y=49, z=-220}
+[12:47:02] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-325, y=49, z=-221} hx{x=-325, y=49, z=-220}
+[12:47:02] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-325, y=49, z=-221} hx{x=-325, y=49, z=-220}
+[12:47:02] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-325, y=49, z=-221} hx{x=-325, y=49, z=-220}
+[12:47:02] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-325, y=49, z=-221} hx{x=-325, y=49, z=-220}
+[12:47:02] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-325, y=49, z=-221} hx{x=-325, y=49, z=-220}
+[12:47:02] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-325, y=49, z=-221} hx{x=-325, y=49, z=-220}
+[12:47:02] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-325, y=49, z=-221} hx{x=-325, y=49, z=-220}
+[12:47:02] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-325, y=49, z=-221} hx{x=-325, y=49, z=-220}
+[12:47:02] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-325, y=49, z=-221} hx{x=-325, y=49, z=-220}
+[12:47:02] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-325, y=49, z=-221} hx{x=-325, y=49, z=-220}
+[12:47:02] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-325, y=49, z=-221} hx{x=-325, y=49, z=-220}
+[12:47:02] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-325, y=49, z=-221} hx{x=-325, y=49, z=-220}
+[12:47:02] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-325, y=49, z=-221} hx{x=-325, y=49, z=-220}
+[12:47:02] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-325, y=49, z=-221} hx{x=-325, y=49, z=-220}
+[12:47:03] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-321, y=50, z=-219} hx{x=-322, y=50, z=-219}
+[12:47:03] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-321, y=50, z=-219} hx{x=-322, y=50, z=-219}
+[12:47:03] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-321, y=50, z=-219} hx{x=-322, y=50, z=-219}
+[12:47:03] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-321, y=50, z=-219} hx{x=-322, y=50, z=-219}
+[12:47:03] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-321, y=50, z=-219} hx{x=-322, y=50, z=-219}
+[12:47:03] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-321, y=50, z=-219} hx{x=-322, y=50, z=-219}
+[12:47:08] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-315, y=55, z=-220} hx{x=-315, y=55, z=-221}
+[12:47:08] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-315, y=55, z=-220} hx{x=-315, y=55, z=-221}
+[12:49:47] [Server thread/INFO]: <Bemf> alright i gtg
+[12:49:56] [Server thread/INFO]: <Indicte> byeee
+[12:50:01] [Server thread/INFO]: <Bemf> take these tho
+[12:50:17] [Server thread/INFO]: <Bemf> cya
+[12:50:22] [Server thread/INFO]: Bemf lost connection: Disconnected
+[12:50:22] [Server thread/INFO]: Bemf left the game
+[12:58:12] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-193, y=66, z=-80} hx{x=-212, y=65, z=-53}
+[13:01:49] [Server thread/INFO]: Indicte has completed the challenge [Hot Tourist Destinations]
+[13:02:14] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-258, y=48, z=136} hx{x=-254, y=49, z=138}
+[13:02:28] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-258, y=48, z=136} hx{x=-240, y=43, z=95}
+[13:02:28] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-258, y=48, z=136} hx{x=-240, y=43, z=95}
+[13:02:31] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-240, y=38, z=89} hx{x=-240, y=37, z=90}
+[13:02:32] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-240, y=38, z=89} hx{x=-240, y=37, z=90}
+[13:02:32] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-240, y=38, z=89} hx{x=-240, y=37, z=90}
+[13:02:32] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-240, y=38, z=89} hx{x=-240, y=37, z=90}
+[13:02:32] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-240, y=38, z=89} hx{x=-240, y=37, z=90}
+[13:02:32] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-240, y=38, z=89} hx{x=-240, y=37, z=90}
+[13:02:32] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-240, y=35, z=88} hx{x=-240, y=37, z=90}
+[13:02:38] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-240, y=35, z=84} hx{x=-240, y=34, z=83}
+[13:02:58] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-240, y=31, z=83} hx{x=-240, y=29, z=79}
+[13:03:32] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-240, y=31, z=83} hx{x=-240, y=17, z=69}
+[13:03:40] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-240, y=31, z=83} hx{x=-240, y=15, z=65}
+[13:03:40] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-240, y=31, z=83} hx{x=-240, y=15, z=65}
+[13:05:40] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-203, y=14, z=66} hx{x=-204, y=13, z=66}
+[13:06:38] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-225, y=15, z=20} hx{x=-224, y=15, z=20}
+[13:06:38] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-225, y=15, z=20} hx{x=-224, y=15, z=20}
+[13:06:39] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-225, y=15, z=20} hx{x=-224, y=15, z=20}
+[13:07:10] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-214, y=10, z=4} hx{x=-213, y=10, z=4}
+[13:07:30] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-220, y=12, z=-16} hx{x=-220, y=13, z=-16}
+[13:07:30] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-220, y=12, z=-16} hx{x=-220, y=13, z=-16}
+[13:07:30] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-220, y=12, z=-16} hx{x=-220, y=13, z=-16}
+[13:07:30] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-220, y=12, z=-16} hx{x=-220, y=13, z=-16}
+[13:07:33] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-224, y=15, z=-16} hx{x=-225, y=15, z=-16}
+[13:07:33] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-224, y=15, z=-16} hx{x=-225, y=15, z=-16}
+[13:07:33] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-224, y=15, z=-16} hx{x=-225, y=15, z=-16}
+[13:07:33] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-224, y=15, z=-16} hx{x=-225, y=15, z=-16}
+[13:07:33] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-224, y=15, z=-16} hx{x=-225, y=15, z=-16}
+[13:07:33] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-224, y=15, z=-16} hx{x=-225, y=15, z=-16}
+[13:07:33] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-224, y=15, z=-16} hx{x=-225, y=15, z=-16}
+[13:12:45] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-248, y=23, z=89} hx{x=-246, y=23, z=90}
+[13:12:46] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-248, y=23, z=89} hx{x=-246, y=23, z=90}
+[13:12:46] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-248, y=23, z=89} hx{x=-246, y=23, z=90}
+[13:50:04] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-150, y=68, z=-201} hx{x=-141, y=65, z=-196}
+[13:50:04] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-150, y=68, z=-201} hx{x=-141, y=65, z=-196}
+[13:50:04] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-150, y=68, z=-201} hx{x=-141, y=65, z=-196}
+[13:50:47] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-150, y=68, z=-201} hx{x=-162, y=65, z=-301}
+[13:53:23] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-191, y=57, z=31} hx{x=-191, y=56, z=31}
+[13:53:37] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-210, y=55, z=50} hx{x=-211, y=58, z=50}
+[13:54:10] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-208, y=60, z=34} hx{x=-208, y=59, z=34}
+[13:54:10] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-208, y=60, z=34} hx{x=-208, y=59, z=34}
+[13:54:41] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-194, y=66, z=33} hx{x=-190, y=73, z=34}
+[13:54:42] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-194, y=66, z=33} hx{x=-190, y=73, z=34}
+[13:57:04] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-111, y=46, z=22} hx{x=-109, y=46, z=23}
+[13:57:04] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-111, y=46, z=22} hx{x=-109, y=46, z=23}
+[13:59:49] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-282, y=45, z=15} hx{x=-282, y=45, z=16}
+[14:00:01] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-277, y=44, z=15} hx{x=-279, y=46, z=15}
+[14:10:54] [Server thread/INFO]: Named entity ccb['DONT KILL'/89926, l='ServerLevel[world]', x=-1935.11, y=64.80, z=-907.97] died: DONT KILL went up in flames
+[14:21:27] [User Authenticator #13/INFO]: UUID of player GunYoshi is 590b2cc8-9e48-4d9c-a2b4-03589655b0c3
+[14:21:28] [Server thread/INFO]: GunYoshi[/132.198.39.255:24450] logged in with entity id 94284 at (-677.9318746479674, 73.0, 436.0601422945657)
+[14:21:28] [Server thread/INFO]: GunYoshi joined the game
+[14:21:42] [Server thread/INFO]: <GunYoshi> hey!
+[14:21:46] [Server thread/INFO]: <Indicte> hi!
+[14:35:17] [Server thread/INFO]: [GunYoshi: Triggered [toggle coordinates hud]]
+[14:46:21] [Server thread/INFO]: [GunYoshi: Triggered [toggle coordinates hud]]
+[14:53:02] [Server thread/INFO]: <GunYoshi> dp we have a mesa?
+[15:00:03] [Server thread/INFO]: GunYoshi lost connection: Disconnected
+[15:00:03] [Server thread/INFO]: GunYoshi left the game
+[15:00:50] [User Authenticator #14/INFO]: UUID of player Bemf is 258fbffa-8298-496c-b36b-2e67556655e5
+[15:00:51] [Server thread/INFO]: Bemf[/130.64.64.67:55187] logged in with entity id 106500 at (-1841.761527759738, 64.0, -881.3464219379898)
+[15:00:51] [Server thread/INFO]: Bemf joined the game
+[15:01:03] [Server thread/INFO]: <Bemf> how goes it
+[15:18:22] [Server thread/INFO]: <Indicte> going good
+[15:18:28] [Server thread/INFO]: <Indicte> wasjust afking
+[15:18:39] [Server thread/INFO]: <Indicte> wya
+[15:18:47] [Server thread/INFO]: <Bemf> west
+[15:18:58] [Server thread/INFO]: <Bemf> waiting for this creeper to get struck by lightning
+[15:19:12] [Server thread/INFO]: <Bemf> you wouldnt happen to have a channeling book would you?
+[15:19:14] [Server thread/INFO]: <Indicte> there was astorm earlier but lightning struck twice adn killed him lol
+[15:19:19] [Server thread/INFO]: <Bemf> aw man
+[15:21:13] [Server thread/INFO]: <Bemf> i need gunpowder, so pls dont sleep at night
+[15:21:23] [Server thread/INFO]: <Indicte> for what
+[15:21:26] [Server thread/INFO]: <Bemf> rockets
+[15:22:18] [Server thread/INFO]: <Indicte> can u help me with something actually
+[15:22:28] [Server thread/INFO]: <Bemf> ?
+[15:22:35] [Server thread/INFO]: <Indicte> i wanna infect our villagers and then cure them for superf cheap trades
+[15:22:42] [Server thread/INFO]: <Bemf> ah sure
+[15:22:55] [Server thread/INFO]: <Indicte> i have to get mushrooms for weakness
+[15:22:58] [Server thread/INFO]: <Indicte> can you get a zombie
+[15:23:01] [Server thread/INFO]: <Bemf> i have mushrooms
+[15:23:09] [Server thread/INFO]: <Indicte> pls toss
+[15:23:25] [Server thread/INFO]: <Bemf> hmm maybe not anymore
+[15:23:38] [Server thread/INFO]: <Bemf> must have left them in the mooshroom biome
+[15:24:01] [Server thread/INFO]: <Indicte> theres a bee in the nether lol
+[15:24:19] [Server thread/INFO]: <Bemf> do you think we can get miles to set the difficulty to hard for a bit?
+[15:24:27] [Server thread/INFO]: <Indicte> i dont mind
+[15:24:45] [Server thread/INFO]: <Bemf> so that we know the villagers turn into zombies
+[15:27:06] [Server thread/INFO]: <Indicte> wya
+[15:27:11] [Server thread/INFO]: <Bemf> west
+[15:29:54] [Server thread/INFO]: Indicte has made the advancement [Local Brewery]
+[15:31:01] [Server thread/INFO]: <Indicte> will the zombies kill the villagers if not in hard mode?
+[15:31:16] [Server thread/INFO]: <Bemf> theres a chance
+[15:33:56] [Server thread/INFO]: <Indicte> can you get impaling 5
+[15:34:00] [Server thread/INFO]: <Indicte> on a trident
+[15:34:10] [Server thread/INFO]: <Bemf> ya but impaling is kinda useless
+[15:34:17] [Server thread/INFO]: <Bemf> it only deals more damage to sea creatures
+[15:34:29] [Server thread/INFO]: <Indicte> im trying to cycle chann eling lol but it wont work
+[15:34:29] [Server thread/INFO]: <Bemf> not even drowned
+[15:35:02] [Server thread/INFO]: <Indicte> nvm just got it
+[15:35:15] [Server thread/INFO]: <Bemf> nice
+[15:35:26] [Server thread/INFO]: <Bemf> can you help me get a charged creeper?
+[15:35:33] [Server thread/INFO]: <Indicte> yes
+[15:35:39] [Server thread/INFO]: <Indicte> let me just get some levels
+[15:37:11] [Server thread/INFO]: <Bemf> i wish tridents could deal more damag
+[15:37:18] [Server thread/INFO]: <Indicte> agree
+[15:39:45] [Server thread/INFO]: <Bemf> imma do some pigling trading
+[15:39:50] [Server thread/INFO]: <Bemf> hopefully for ender pearls
+[15:40:54] [Server thread/INFO]: <Indicte> lol
+[15:41:34] [Server thread/INFO]: Bemf has made the advancement [Oh Shiny]
+[15:42:22] [Server thread/INFO]: <Indicte> i have channeling and loyalty 3
+[15:42:32] [Server thread/INFO]: <Bemf> nice
+[15:44:23] [Server thread/INFO]: Indicte has made the advancement [A Throwaway Joke]
+[15:45:34] [Server thread/INFO]: <Indicte> can u put looting on a trident
+[15:45:57] [Server thread/INFO]: <Bemf> dont think so
+[15:53:57] [Server thread/INFO]: <Bemf> 8 pearls
+[15:54:01] [Server thread/INFO]: <Indicte> i have 3
+[15:54:41] [Server thread/INFO]: <Indicte> thank
+[15:55:09] [Server thread/INFO]: <Indicte> i have 4 ghast tears
+[15:55:16] [Server thread/INFO]: <Indicte> we can kill the dragon and respawn it lol
+[15:55:22] [Server thread/INFO]: <Bemf> nice
+[15:55:32] [Server thread/INFO]: <Bemf> what do you make slow falling potions out of?
+[15:55:55] [Server thread/INFO]: <Indicte> phantom membrame
+[15:55:58] [Server thread/INFO]: <Indicte> menbrane
+[15:56:03] [Server thread/INFO]: <Indicte> membrane
+[15:56:05] [Server thread/INFO]: <Bemf> i have one
+[15:56:21] [Server thread/INFO]: <Bemf> wanna brew those just in case?
+[15:56:31] [Server thread/INFO]: <Indicte> sure
+[15:56:36] [Server thread/INFO]: <Indicte> what are we gonna do
+[15:56:44] [Server thread/INFO]: <Bemf> if we get launched by the dragon
+[15:56:48] [Server thread/INFO]: <Indicte> true
+[15:57:03] [Server thread/INFO]: <Bemf> also
+[15:57:12] [Server thread/INFO]: <Indicte> thank
+[15:57:19] [Server thread/INFO]: <Bemf> we never got our horses
+[15:57:24] [Server thread/INFO]: <Indicte> i can make a ton of fire res
+[15:57:52] [User Authenticator #15/INFO]: UUID of player ASFJASJHALALF is 80d98bcf-8ba8-4a57-9f35-2bd618a9e3a8
+[15:57:53] [Server thread/INFO]: ASFJASJHALALF[/192.138.214.116:11369] logged in with entity id 121042 at (-1695.9679832542085, 94.25015838224199, -944.3642435259725)
+[15:57:53] [Server thread/INFO]: ASFJASJHALALF joined the game
+[15:57:57] [Server thread/INFO]: [ASFJASJHALALF: The difficulty has been set to Hard]
+[15:57:58] [Server thread/INFO]: <Bemf> hi
+[15:58:04] [Server thread/INFO]: <ASFJASJHALALF> alr gamers i set the difficulty to hard like dash asked
+[15:58:05] [Server thread/INFO]: <Indicte> hes gonna change the game mode
+[15:58:05] [Server thread/INFO]: <ASFJASJHALALF> cya gamers
+[15:58:09] [Server thread/INFO]: <ASFJASJHALALF> im in class lol
+[15:58:11] [Server thread/INFO]: ASFJASJHALALF lost connection: Disconnected
+[15:58:11] [Server thread/INFO]: ASFJASJHALALF left the game
+[15:58:12] [Server thread/INFO]: <Indicte> thanks miles
+[15:58:13] [Server thread/INFO]: <Bemf> nice
+[15:58:58] [Server thread/INFO]: <Indicte> dont take
+[15:59:05] [Server thread/INFO]: <Indicte> look
+[15:59:23] [Server thread/INFO]: Bemf has made the advancement [Local Brewery]
+[15:59:28] [Server thread/INFO]: <Bemf> thx
+[15:59:35] [Server thread/INFO]: <Indicte> im gonna make fire rez
+[15:59:58] [Server thread/INFO]: <Indicte> shall i make some regen too?
+[16:00:07] [Server thread/INFO]: <Indicte> ill make them spalsh potions
+[16:00:11] [Server thread/INFO]: <Indicte> so we can both have
+[16:00:14] [Server thread/INFO]: <Bemf> im all set with slow falling but sure
+[16:00:45] [Server thread/INFO]: <Bemf> i wanna grab my horse
+[16:00:50] [Server thread/INFO]: <Indicte> ok
+[16:00:52] [Server thread/INFO]: <Bemf> do you have the coords?
+[16:00:56] [Server thread/INFO]: <Indicte> erm
+[16:01:02] [Server thread/INFO]: <Indicte> i typed them in chat
+[16:01:07] [Server thread/INFO]: <Indicte> but theyre too far up
+[16:01:19] [Server thread/INFO]: <Bemf> ah
+[16:01:27] [Server thread/INFO]: <Bemf> thx
+[16:01:41] [Server thread/INFO]: <Bemf> i already have a few tho
+[16:02:04] [Server thread/INFO]: <Indicte> do u wanna go to the fortress i found and get more blaze
+[16:02:15] [Server thread/INFO]: <Bemf> did you fully loot it?
+[16:02:19] [Server thread/INFO]: <Indicte> nope
+[16:02:27] [Server thread/INFO]: <Indicte> there were two fortresses right next to each other
+[16:02:33] [Server thread/INFO]: <Indicte> i only went to one
+[16:02:34] [Server thread/INFO]: <Bemf> alright sure
+[16:02:49] [Server thread/INFO]: <Bemf> oen sec
+[16:05:05] [Server thread/INFO]: <Indicte> go sleep
+[16:05:49] [Server thread/INFO]: <Bemf> thx
+[16:05:59] [Server thread/INFO]: <Indicte> ok
+[16:06:03] [Server thread/INFO]: <Indicte> all i need is food lol
+[16:08:28] [Server thread/INFO]: <Indicte> sorry
+[16:08:29] [Server thread/INFO]: <Indicte> lol
+[16:09:04] [Server thread/INFO]: <Indicte> do u wanna get your horses first
+[16:09:09] [Server thread/INFO]: <Bemf> its fine
+[16:12:59] [Server thread/INFO]: <Indicte> we have to travel very far in the nether
+[16:13:04] [Server thread/INFO]: <Indicte> but its worth
+[16:13:13] [Server thread/INFO]: <Bemf> oh boy
+[16:13:28] [Server thread/INFO]: <Indicte> 1662, -92 nether coords
+[16:13:41] [Server thread/INFO]: <Indicte> ok im ready
+[16:14:17] [Server thread/INFO]: <Bemf> ive got 12 also
+[16:15:11] [Server thread/INFO]: <Indicte> where is my trident lol
+[16:15:22] [Server thread/INFO]: <Bemf> not in inventory?
+[16:15:25] [Server thread/INFO]: Indicte lost connection: Disconnected
+[16:15:25] [Server thread/INFO]: Indicte left the game
+[16:15:26] [User Authenticator #16/INFO]: UUID of player Indicte is c6516a09-de0d-4722-a937-aaee1a6fd891
+[16:15:26] [Server thread/INFO]: Indicte[/209.6.169.219:55254] logged in with entity id 124386 at (-199.80238166706022, 57.0, -155.746290406856)
+[16:15:26] [Server thread/INFO]: Indicte joined the game
+[16:15:40] [Server thread/INFO]: <Indicte> did i throw it in lava?
+[16:15:45] [Server thread/INFO]: <Bemf> it should be fine
+[16:15:46] [Server thread/INFO]: <Indicte> i thought it comes back
+[16:16:15] [Server thread/INFO]: <Indicte> do u have it?
+[16:16:21] [Server thread/INFO]: <Bemf> no
+[16:16:37] [Server thread/INFO]: <Indicte> wtf
+[16:16:44] [Server thread/INFO]: <Bemf> maybe if we go in that direction
+[16:17:07] [Server thread/INFO]: <Bemf> nice
+[16:17:40] [Server thread/INFO]: <Indicte> follow me
+[16:18:46] [User Authenticator #17/INFO]: UUID of player King_Orion is 9438c271-6781-41d2-a23c-ae87f86eefcc
+[16:18:47] [Server thread/INFO]: King_Orion[/132.198.28.178:60047] logged in with entity id 124794 at (-649.4168886108419, 72.0, 457.0610590480562)
+[16:18:47] [Server thread/INFO]: King_Orion joined the game
+[16:20:12] [Server thread/INFO]: <Bemf> where u go
+[16:22:32] [Server thread/INFO]: <Bemf> rip
+[16:23:31] [Server thread/INFO]: <Indicte> wanna go?
+[16:23:50] [Server thread/INFO]: <Bemf> theyre always risky
+[16:24:03] [Server thread/INFO]: <Indicte> those chetss suck
+[16:24:09] [Server thread/INFO]: <Bemf> looted?
+[16:24:12] [Server thread/INFO]: <Indicte> mayb
+[16:24:43] [Server thread/INFO]: <Bemf> i think so
+[16:24:46] [Server thread/INFO]: <Indicte> cxome
+[16:24:49] [Server thread/INFO]: <Indicte> come
+[16:25:40] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=307, y=82, z=-291} hx{x=306, y=81, z=-293}
+[16:25:40] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=307, y=82, z=-291} hx{x=306, y=81, z=-293}
+[16:25:40] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=307, y=82, z=-291} hx{x=306, y=81, z=-293}
+[16:27:39] [Server thread/INFO]: <Indicte> oh
+[16:27:41] [Server thread/INFO]: <Indicte> thats a new one
+[16:27:52] [Server thread/INFO]: <Indicte> lucky us
+[16:28:00] [Server thread/INFO]: <Bemf> out of render distance
+[16:29:48] [Server thread/INFO]: <Indicte> oh wait
+[16:29:54] [Server thread/INFO]: <Indicte> this is the one conlan found
+[16:30:18] [Server thread/INFO]: <Bemf> i dont think so
+[16:30:26] [Server thread/INFO]: <Indicte> i think so thewre is builds on it already
+[16:30:30] [Server thread/INFO]: <Bemf> coords dont match
+[16:30:44] [Server thread/INFO]: Bemf has made the advancement [A Terrible Fortress]
+[16:31:19] [Server thread/INFO]: <Indicte> look up here
+[16:31:43] [Server thread/INFO]: <Indicte> someone broke the blazee spawner
+[16:31:56] [Server thread/INFO]: <Bemf> ah
+[16:33:08] [Server thread/INFO]: <Bemf> are they all broken?
+[16:33:43] [Server thread/INFO]: <Indicte> no
+[16:34:40] [Server thread/INFO]: <Indicte> i have 7 rods
+[16:34:57] [Server thread/INFO]: Bemf has made the advancement [Into Fire]
+[16:35:29] [User Authenticator #18/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[16:35:30] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50173] logged in with entity id 130557 at (176.6997569411599, 69.0, -118.27797279754643)
+[16:35:30] [Server thread/INFO]: Zumquirelle joined the game
+[16:35:36] [Server thread/INFO]: <Bemf> hey
+[16:36:03] [Server thread/INFO]: <Bemf> ok im good
+[16:36:08] [Server thread/INFO]: <Zumquirelle> hello
+[16:36:11] [Server thread/INFO]: <Indicte> hi
+[16:36:27] [Server thread/INFO]: <Indicte> i want as few more
+[16:37:16] [Server thread/INFO]: <Indicte> im good also
+[16:37:19] [Server thread/INFO]: <Indicte> lets head home
+[16:37:33] [Server thread/INFO]: <Bemf> how far are the other 2?
+[16:37:48] [Server thread/INFO]: <Indicte> around 100 blocks away
+[16:37:50] [Server thread/INFO]: <Indicte> wanna go?
+[16:37:53] [Server thread/INFO]: <Indicte> 1000(
+[16:37:55] [Server thread/INFO]: <Bemf> if theyre unlooted
+[16:37:56] [Server thread/INFO]: <Indicte> not 100
+[16:38:01] [Server thread/INFO]: <Bemf> oh nvm
+[16:38:07] [Server thread/INFO]: <Indicte> you sure?
+[16:38:18] [Server thread/INFO]: <Indicte> and yes theyre mostyl unlooted
+[16:38:29] [Server thread/INFO]: <Bemf> only if you want to
+[16:38:33] [Server thread/INFO]: <Indicte> LOl
+[16:38:43] [Server thread/INFO]: <Bemf> the only thing i want is the armor trim
+[16:38:48] [Server thread/INFO]: <Indicte> then lets go
+[16:40:55] [Server thread/INFO]: <Bemf> we should breed villagers
+[16:41:02] [Server thread/INFO]: <Bemf> at some point
+[16:41:08] [Server thread/INFO]: <Indicte> can you torch here
+[16:42:56] [Server thread/INFO]: Zumquirelle was fireballed by Ghast
+[16:43:02] [Server thread/INFO]: <Zumquirelle> wow
+[16:43:55] [Server thread/INFO]: Indicte lost connection: Disconnected
+[16:43:55] [Server thread/INFO]: Indicte left the game
+[16:44:00] [User Authenticator #19/INFO]: UUID of player Indicte is c6516a09-de0d-4722-a937-aaee1a6fd891
+[16:44:00] [Server thread/INFO]: Indicte[/209.6.169.219:55304] logged in with entity id 135928 at (1146.9718271149238, 53.0, 10.331279598720675)
+[16:44:00] [Server thread/INFO]: Indicte joined the game
+[16:44:04] [Server thread/INFO]: Zumquirelle was burned to a crisp while fighting Ghast
+[16:44:51] [Server thread/INFO]: Zumquirelle was fireballed by Ghast
+[16:45:00] [Server thread/INFO]: <King_Orion> :(
+[16:45:52] [Server thread/INFO]: Zumquirelle was fireballed by Ghast
+[16:45:57] [Server thread/INFO]: <Bemf> u good
+[16:46:00] [Server thread/INFO]: <Zumquirelle> no
+[16:46:53] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1537, y=54, z=12} hx{x=1542, y=52, z=12}
+[16:46:53] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1537, y=54, z=12} hx{x=1542, y=52, z=12}
+[16:46:53] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1537, y=54, z=12} hx{x=1542, y=52, z=12}
+[16:46:54] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1537, y=54, z=12} hx{x=1542, y=52, z=12}
+[16:47:26] [Server thread/INFO]: <Zumquirelle> theres 2 ghasts RIGHT outside the nether portal at the village
+[16:47:28] [Server thread/INFO]: <Zumquirelle> be warned
+[16:47:32] [Server thread/INFO]: <Zumquirelle> fuck the nether
+[16:47:43] [Server thread/INFO]: <Zumquirelle> i got all the way back from the fortess
+[16:47:58] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1640, y=53, z=24} hx{x=1641, y=53, z=26}
+[16:47:58] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1640, y=53, z=24} hx{x=1641, y=53, z=26}
+[16:48:02] [Server thread/INFO]: <Zumquirelle> killed 2 ghasts with their own fiureballs, then got fuckin blasted RIGHT outside of the home portal
+[16:48:04] [Server thread/INFO]: <Zumquirelle> smh
+[16:48:11] [Server thread/INFO]: <King_Orion> womp womp
+[16:48:44] [Server thread/INFO]: <Bemf> i see this one
+[16:48:54] [Server thread/INFO]: <Bemf> which is unlooted?
+[16:48:54] [Server thread/INFO]: <Indicte> the other one is firther east
+[16:48:59] [Server thread/INFO]: <Indicte> the one we are at
+[16:49:18] [Server thread/INFO]: <Zumquirelle> did you steal ALL of my apples
+[16:49:28] [Server thread/INFO]: Bemf has completed the challenge [Hot Tourist Destinations]
+[16:50:43] [Server thread/INFO]: <Indicte> i gave you a gift to compensate :(
+[16:51:10] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1808, y=67, z=32} hx{x=1815, y=68, z=72}
+[16:52:48] [Server thread/INFO]: <Bemf> havent found much
+[16:53:10] [Server thread/INFO]: <Zumquirelle> yall find a stronghold yet?
+[16:53:17] [Server thread/INFO]: <Indicte> no but we can
+[16:53:33] [Server thread/INFO]: <Zumquirelle> id be cool
+[16:54:13] [Server thread/INFO]: <Bemf> yea nothing
+[16:54:16] [Server thread/INFO]: <Indicte> wanna head to the other one
+[16:54:20] [Server thread/INFO]: <Bemf> sure
+[16:54:24] [Server thread/INFO]: <Zumquirelle> ty for the axe doe, its gonna be steve, cleaver of wood
+[16:55:40] [Server thread/INFO]: <Bemf> wait
+[16:55:59] [Server thread/INFO]: <Bemf> there was another section
+[16:56:43] [Server thread/INFO]: <Indicte> lets go to the other
+[16:56:56] [Server thread/INFO]: <Zumquirelle> is calling an axe "go to horny jail" a clear enough joke?
+[16:56:56] [Server thread/INFO]: <Bemf> youve been in that seciton?
+[16:57:01] [Server thread/INFO]: <Indicte> yes
+[16:57:06] [Server thread/INFO]: <Indicte> to the left there?
+[16:57:09] [Server thread/INFO]: <Indicte> i cleared that
+[16:57:11] [Server thread/INFO]: <Bemf> ok
+[16:57:58] [Server thread/INFO]: <Bemf> up/
+[16:58:06] [Server thread/INFO]: <Bemf> mine near the roof?
+[16:58:11] [Server thread/INFO]: Indicte lost connection: Disconnected
+[16:58:11] [Server thread/INFO]: Indicte left the game
+[16:58:13] [User Authenticator #20/INFO]: UUID of player Indicte is c6516a09-de0d-4722-a937-aaee1a6fd891
+[16:58:13] [Server thread/INFO]: Indicte[/209.6.169.219:55324] logged in with entity id 144103 at (1809.300000011921, 61.0, -41.38178031064812)
+[16:58:13] [Server thread/INFO]: Indicte joined the game
+[16:58:19] [Server thread/INFO]: Indicte lost connection: Disconnected
+[16:58:19] [Server thread/INFO]: Indicte left the game
+[16:58:21] [User Authenticator #21/INFO]: UUID of player Indicte is c6516a09-de0d-4722-a937-aaee1a6fd891
+[16:58:22] [Server thread/INFO]: Indicte[/209.6.169.219:55327] logged in with entity id 144169 at (1809.300000011921, 61.0, -41.38178031064812)
+[16:58:22] [Server thread/INFO]: Indicte joined the game
+[16:58:26] [Server thread/INFO]: Indicte tried to swim in lava
+[16:58:39] [Server thread/INFO]: <Zumquirelle> o7
+[16:58:51] [Server thread/INFO]: <Indicte> bro
+[16:58:55] [Server thread/INFO]: <Indicte> im so mad
+[16:59:05] [Server thread/INFO]: <Indicte> i lost so many things
+[16:59:13] [Server thread/INFO]: <Bemf> got some
+[16:59:16] [Server thread/INFO]: <Indicte> you have my netherite pic right
+[16:59:21] [Server thread/INFO]: <Bemf> ya
+[16:59:27] [Server thread/INFO]: <Indicte> what else
+[16:59:35] [Server thread/INFO]: <Bemf> pants and axe
+[16:59:36] [Server thread/INFO]: <Indicte> bro i panic
+[16:59:37] [Server thread/INFO]: <Bemf> and some potions
+[16:59:48] [Server thread/INFO]: <Indicte> i panicked and put slow falliong in my hot bar instead of fire res
+[16:59:54] [Server thread/INFO]: <Bemf> damnn
+[17:00:12] [Server thread/INFO]: <Indicte> there goes literally everthing bro
+[17:00:13] [Server thread/INFO]: <Indicte> omg
+[17:00:29] [Server thread/INFO]: <King_Orion> dash says "me fr"
+[17:00:42] [Server thread/INFO]: <King_Orion> he's doing ur mom
+[17:00:46] [Server thread/INFO]: <Indicte> lol
+[17:00:52] [Server thread/INFO]: <Bemf> at least the pick is fine
+[17:00:56] [Server thread/INFO]: <Indicte> at 1662, -92
+[17:01:02] [Server thread/INFO]: <Indicte> there is a portal
+[17:01:04] [Server thread/INFO]: <Indicte> go there
+[17:01:43] [Server thread/INFO]: <Indicte> let me flex on you
+[17:02:18] [Server thread/INFO]: <Zumquirelle> look for stronghold now?
+[17:02:24] [Server thread/INFO]: <Indicte> rip my trident and my max boy
+[17:02:27] [Server thread/INFO]: <Indicte> bow
+[17:03:00] [Server thread/INFO]: <Zumquirelle> so cold
+[17:03:04] [Server thread/INFO]: Indicte tried to swim in lava
+[17:03:08] [Server thread/INFO]: <Zumquirelle> wow
+[17:03:11] [Server thread/INFO]: <Zumquirelle> what a sequence
+[17:03:39] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1709, y=104, z=-75} hx{x=1710, y=106, z=-75}
+[17:03:39] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1709, y=104, z=-75} hx{x=1710, y=106, z=-75}
+[17:04:11] [Server thread/INFO]: <Indicte> are u coming back or looting
+[17:04:18] [Server thread/INFO]: <Bemf> going to those coords
+[17:04:22] [Server thread/INFO]: <Indicte> cool
+[17:04:27] [Server thread/INFO]: <Zumquirelle> 5check discord
+[17:05:05] [Server thread/INFO]: <Indicte> im gonna afk can u just put my things in the chest when ur back pls
+[17:07:34] [Server thread/INFO]: Bemf has completed the challenge [Subspace Bubble]
+[17:07:37] [Server thread/INFO]: Zumquirelle lost connection: Disconnected
+[17:07:37] [Server thread/INFO]: Zumquirelle left the game
+[17:08:24] [Server thread/INFO]: <Bemf> im 15k blocks away
+[17:08:54] [User Authenticator #22/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[17:08:54] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50410] logged in with entity id 150188 at (-1825.5678519477224, 63.9375, -889.7482600872341)
+[17:08:54] [Server thread/INFO]: Zumquirelle joined the game
+[17:08:59] [Server thread/INFO]: <Indicte> ik it sucks make a portal as you get closer and see if you can make ur way back through the nether
+[17:09:19] [Server thread/INFO]: <Indicte> the home portal is -202, -103 in the nether
+[17:13:12] [Server thread/INFO]: <Zumquirelle> is the cuurnt goal get home then stronghold?
+[17:13:19] [Server thread/INFO]: <Bemf> sounds good to me
+[17:17:31] [Server thread/INFO]: Indicte lost connection: Disconnected
+[17:17:31] [Server thread/INFO]: Indicte left the game
+[17:17:52] [User Authenticator #23/INFO]: UUID of player Indicte is c6516a09-de0d-4722-a937-aaee1a6fd891
+[17:17:53] [Server thread/INFO]: Indicte[/209.6.169.219:63167] logged in with entity id 158504 at (-1858.300000011921, 7.0, -879.0601112365446)
+[17:17:53] [Server thread/INFO]: Indicte joined the game
+[17:19:11] [Server thread/INFO]: <Indicte> how far out are ye
+[17:19:18] [Server thread/INFO]: <Bemf> 10k
+[17:19:28] [Server thread/INFO]: <Zumquirelle> DAMN
+[17:19:32] [Server thread/INFO]: <Zumquirelle> where the hell
+[17:19:35] [Server thread/INFO]: <Zumquirelle> did yall go
+[17:19:38] [Server thread/INFO]: <Indicte> i had to walk that distance last nice
+[17:19:41] [Server thread/INFO]: <Indicte> night
+[17:20:11] [Server thread/INFO]: Indicte lost connection: Disconnected
+[17:20:11] [Server thread/INFO]: Indicte left the game
+[17:24:52] [Server thread/INFO]: King_Orion lost connection: Disconnected
+[17:24:52] [Server thread/INFO]: King_Orion left the game
+[17:27:31] [Server thread/INFO]: Zumquirelle was blown up by Creeper
+[17:27:33] [Server thread/WARN]: Zumquirelle moved too quickly! -12.90957360965217,0.0,8.226746978106348
+[17:28:36] [Server thread/INFO]: Zumquirelle was shot by Skeleton
+[17:28:37] [Server thread/WARN]: Zumquirelle moved too quickly! 5.262031906631819,1.0,45.45845449046908
+[17:30:08] [Server thread/INFO]: <Zumquirelle> current distance?
+[17:30:18] [Server thread/INFO]: <Bemf> 550 in nether
+[17:31:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[17:31:54] [Server thread/INFO]: hey gamers<--[HERE]
+[17:31:56] [Server thread/INFO]: [Not Secure] [Server] hey gamers
+[17:31:59] [Server thread/INFO]: [Not Secure] [Server] i just got home
+[17:32:09] [Server thread/INFO]: [Not Secure] [Server] is there a good time to restart the server?
+[17:32:13] [Server thread/INFO]: [Not Secure] [Server] if youd rather i dont
+[17:32:14] [Server thread/INFO]: [Not Secure] [Server] i wont
+[17:32:28] [Server thread/INFO]: <Zumquirelle> now is fine
+[17:32:30] [Server thread/INFO]: <Bemf> sure
+[17:32:38] [Server thread/INFO]: [Not Secure] [Server] thanks gamers! see you in a couple mins
+[17:32:40] [Server thread/INFO]: Stopping the server
+[17:32:40] [Server thread/INFO]: Stopping server
+[17:32:40] [Server thread/INFO]: Saving players
+[17:32:40] [Server thread/INFO]: Bemf lost connection: Server closed
+[17:32:40] [Server thread/INFO]: Bemf left the game
+[17:32:40] [Server thread/INFO]: Saving worlds
+[17:32:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:32:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:32:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:32:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:32:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:32:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:32:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

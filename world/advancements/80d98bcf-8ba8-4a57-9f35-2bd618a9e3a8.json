@@ -72,5 +72,12 @@
     },
     "done": true
   },
+  "craftable_bundles_rabbit_hide:recipes/bundle_rabbit_hide": {
+    "criteria": {
+      "has_rabbit_hide": "2024-01-22 10:42:21 -0500",
+      "has_string": "2024-01-22 10:42:21 -0500"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
