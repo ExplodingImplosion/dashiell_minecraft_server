@@ -7,7 +7,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2024-01-21 18:45:52 -0500",
       "minecraft:old_growth_birch_forest": "2024-01-20 14:12:02 -0500",
+      "minecraft:beach": "2024-01-21 18:46:00 -0500",
+      "minecraft:forest": "2024-01-21 18:45:59 -0500",
+      "minecraft:taiga": "2024-01-21 18:45:58 -0500",
+      "minecraft:river": "2024-01-21 18:46:04 -0500",
       "minecraft:plains": "2024-01-20 18:18:17 -0500"
     },
     "done": false
@@ -42,13 +47,6 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2024-01-21 12:56:25 -0500",
-      "minecraft:nether_wastes": "2024-01-21 12:56:22 -0500"
-    },
-    "done": false
-  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-01-21 12:56:21 -0500"
@@ -58,6 +56,19 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-01-21 12:56:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-01-21 12:56:25 -0500",
+      "minecraft:nether_wastes": "2024-01-21 12:56:22 -0500"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-01-21 18:45:37 -0500"
     },
     "done": true
   },

@@ -1326,9 +1326,10 @@
       "minecraft:crimson_forest": "2024-01-20 19:12:16 -0500",
       "minecraft:nether_wastes": "2024-01-20 18:43:48 -0500",
       "minecraft:soul_sand_valley": "2024-01-20 20:46:57 -0500",
-      "minecraft:basalt_deltas": "2024-01-20 21:16:18 -0500"
+      "minecraft:basalt_deltas": "2024-01-20 21:16:18 -0500",
+      "minecraft:warped_forest": "2024-01-21 18:40:45 -0500"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/return_to_sender": {
     "criteria": {
@@ -2329,6 +2330,18 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2024-01-21 17:07:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-01-21 18:53:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2024-01-21 18:53:26 -0500"
     },
     "done": true
   },
