@@ -1,11 +1,55 @@
-[00:01:39] [Server thread/INFO]: Stopping the server
-[00:01:39] [Server thread/INFO]: Stopping server
-[00:01:39] [Server thread/INFO]: Saving players
-[00:01:39] [Server thread/INFO]: Saving worlds
-[00:01:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:01:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:01:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:01:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:01:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:01:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:01:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:05:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:05:15] [ServerMain/INFO]: Loaded 7 recipes
+[00:05:15] [ServerMain/INFO]: Loaded 1280 advancements
+[00:05:16] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[00:05:16] [Server thread/INFO]: Loading properties
+[00:05:16] [Server thread/INFO]: Default game type: SURVIVAL
+[00:05:16] [Server thread/INFO]: Generating keypair
+[00:05:16] [Server thread/INFO]: Starting Minecraft server on 192.168.86.140:25565
+[00:05:16] [Server thread/INFO]: Using default channel type
+[00:05:16] [Server thread/INFO]: Preparing level "world"
+[00:05:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:05:19] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[00:05:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:05:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:05:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:05:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:05:20] [Worker-Main-5/INFO]: Preparing spawn area: 77%
+[00:05:20] [Server thread/INFO]: Time elapsed: 2568 ms
+[00:05:20] [Server thread/INFO]: Done (3.906s)! For help, type "help"
+[00:06:55] [User Authenticator #1/INFO]: UUID of player murder__goose is d18e994a-6034-49d7-a21a-d9ef5de4aff9
+[00:06:56] [Server thread/INFO]: murder__goose[/132.198.31.255:4596] logged in with entity id 51 at (-620.8941279597877, 79.0, 492.7863636417381)
+[00:06:56] [Server thread/INFO]: murder__goose joined the game
+[00:07:09] [Server thread/INFO]: [Not Secure] [Server] wtf lmao
+[00:07:16] [Server thread/INFO]: [Not Secure] [Server] u just hopped on right after the restart
+[00:07:19] [Server thread/INFO]: [Not Secure] [Server] W timing
+[00:07:22] [Server thread/INFO]: <murder__goose> damn
+[00:07:25] [Server thread/INFO]: <murder__goose> that's crazy
+[00:07:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:07:34] [Server thread/INFO]: alr gn gamer<--[HERE]
+[00:07:38] [Server thread/INFO]: [Not Secure] [Server] alr gn gamer
+[00:07:42] [Server thread/INFO]: <murder__goose> night :)
+[00:41:18] [Server thread/INFO]: murder__goose lost connection: Disconnected
+[00:41:18] [Server thread/INFO]: murder__goose left the game
+[00:46:29] [User Authenticator #2/INFO]: UUID of player murder__goose is d18e994a-6034-49d7-a21a-d9ef5de4aff9
+[00:46:29] [Server thread/INFO]: murder__goose[/132.198.31.255:19546] logged in with entity id 4098 at (-627.2083897329464, 79.0, 486.6942826362544)
+[00:46:29] [Server thread/INFO]: murder__goose joined the game
+[01:02:55] [Server thread/INFO]: murder__goose lost connection: Disconnected
+[01:02:55] [Server thread/INFO]: murder__goose left the game
+[01:02:57] [User Authenticator #3/INFO]: UUID of player murder__goose is d18e994a-6034-49d7-a21a-d9ef5de4aff9
+[01:02:57] [Server thread/INFO]: murder__goose[/132.198.31.255:53983] logged in with entity id 9796 at (1280.067054917764, 68.0, -173.92195698254076)
+[01:02:57] [Server thread/INFO]: murder__goose joined the game
+[01:03:33] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1285, y=65, z=-172} hx{x=1284, y=66, z=-173}
+[01:14:41] [Server thread/INFO]: murder__goose lost connection: Disconnected
+[01:14:41] [Server thread/INFO]: murder__goose left the game
+[02:14:23] [Server thread/INFO]: Stopping the server
+[02:14:23] [Server thread/INFO]: Stopping server
+[02:14:23] [Server thread/INFO]: Saving players
+[02:14:23] [Server thread/INFO]: Saving worlds
+[02:14:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:14:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:14:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:14:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:14:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:14:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:14:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
