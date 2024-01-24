@@ -1,0 +1,46 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2024-01-23 23:30:16 -0500"
+    },
+    "done": true
+  },
+  "armor_statues:enable": {
+    "criteria": {
+      "tick": "2024-01-23 23:30:16 -0500"
+    },
+    "done": true
+  },
+  "vanillatweaks:coordinates_hud": {
+    "criteria": {
+      "tick": "2024-01-23 23:30:16 -0500"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2024-01-23 23:30:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-01-23 23:30:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_birch_forest": "2024-01-23 23:30:17 -0500",
+      "minecraft:windswept_savanna": "2024-01-23 23:30:39 -0500"
+    },
+    "done": false
+  },
+  "vanillatweaks:armor_statues": {
+    "criteria": {
+      "tick": "2024-01-23 23:30:16 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3700
+}
