@@ -1,11 +1,34 @@
-[00:13:57] [Server thread/INFO]: Stopping the server
-[00:13:57] [Server thread/INFO]: Stopping server
-[00:13:57] [Server thread/INFO]: Saving players
-[00:13:57] [Server thread/INFO]: Saving worlds
-[00:13:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:13:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:13:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:13:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:13:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:13:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:13:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:14:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:14:18] [ServerMain/INFO]: Loaded 7 recipes
+[00:14:18] [ServerMain/INFO]: Loaded 1280 advancements
+[00:14:19] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[00:14:19] [Server thread/INFO]: Loading properties
+[00:14:19] [Server thread/INFO]: Default game type: SURVIVAL
+[00:14:19] [Server thread/INFO]: Generating keypair
+[00:14:19] [Server thread/INFO]: Starting Minecraft server on 192.168.86.140:25565
+[00:14:19] [Server thread/INFO]: Using default channel type
+[00:14:19] [Server thread/INFO]: Preparing level "world"
+[00:14:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:14:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:14:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:14:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:14:23] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[00:14:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:14:23] [Server thread/INFO]: Time elapsed: 2490 ms
+[00:14:23] [Server thread/INFO]: Done (3.883s)! For help, type "help"
+[04:05:53] [User Authenticator #1/INFO]: UUID of player wwwtoastercom is 072c912e-6029-4845-9b70-9fd64f253235
+[04:05:53] [Server thread/INFO]: wwwtoastercom[/69.174.137.14:8112] logged in with entity id 146 at (69.66422814156468, 44.0, 1157.119250298773)
+[04:05:53] [Server thread/INFO]: wwwtoastercom joined the game
+[04:20:15] [Server thread/INFO]: wwwtoastercom lost connection: Disconnected
+[04:20:15] [Server thread/INFO]: wwwtoastercom left the game
+[08:32:02] [Server thread/INFO]: Stopping the server
+[08:32:02] [Server thread/INFO]: Stopping server
+[08:32:02] [Server thread/INFO]: Saving players
+[08:32:02] [Server thread/INFO]: Saving worlds
+[08:32:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:32:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08:32:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08:32:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:32:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:32:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:32:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
