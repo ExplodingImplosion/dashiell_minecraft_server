@@ -1,95 +1,24 @@
-[00:00:36] [Server thread/INFO]: GunYoshi has made the advancement [Local Brewery]
-[00:05:35] [Server thread/INFO]: Zumquirelle lost connection: Disconnected
-[00:05:35] [Server thread/INFO]: Zumquirelle left the game
-[00:05:45] [User Authenticator #50/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
-[00:05:45] [Server thread/INFO]: Zumquirelle[/24.60.30.191:51823] logged in with entity id 322908 at (-1736.5803108118137, 83.0, -2170.077307497528)
-[00:05:45] [Server thread/INFO]: Zumquirelle joined the game
-[00:10:01] [Server thread/INFO]: Zumquirelle lost connection: Disconnected
-[00:10:01] [Server thread/INFO]: Zumquirelle left the game
-[00:10:14] [User Authenticator #51/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
-[00:10:17] [Server thread/INFO]: Zumquirelle[/24.60.30.191:51836] logged in with entity id 324931 at (-1736.2178595508672, 83.6212968405392, -2170.261685271173)
-[00:10:17] [Server thread/INFO]: Zumquirelle joined the game
-[00:17:47] [Server thread/INFO]: t_empest lost connection: Disconnected
-[00:17:47] [Server thread/INFO]: t_empest left the game
-[00:18:01] [Server thread/INFO]: GunYoshi lost connection: Disconnected
-[00:18:01] [Server thread/INFO]: GunYoshi left the game
-[00:18:09] [Server thread/INFO]: murder__goose lost connection: Disconnected
-[00:18:09] [Server thread/INFO]: murder__goose left the game
-[00:22:08] [Server thread/WARN]: Zumquirelle moved too quickly! 0.44214508366792415,0.0,-10.06586793963092
-[00:22:19] [Server thread/INFO]: Zumquirelle lost connection: Timed out
-[00:22:19] [Server thread/INFO]: Zumquirelle left the game
-[00:24:03] [User Authenticator #52/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
-[00:24:05] [Server thread/INFO]: Zumquirelle[/24.60.30.191:52043] logged in with entity id 332285 at (-171.23733691667752, 72.0, -170.4020591042518)
-[00:24:05] [Server thread/INFO]: Zumquirelle joined the game
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 1.9558200854400525,-9.239999793469906,4.316766483394019
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 1.9954274444902467,-10.119999773800373,4.404185424070178
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.0310740666911045,-11.03999975323677,4.48286246859449
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.0631560258219963,-11.999999731779099,4.553671806790561
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.0920297882748855,-12.999999709427357,4.617400209478802
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.1180161737941035,-14.039999686181545,4.674755770378823
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.141403920141812,-15.0,4.726375773821374
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.1554365685080654,-15.0,4.757347777117616
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.1638561578623694,-15.0,4.775930979833788
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.1689079116756886,-15.0,4.787080901906549
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.17193896408412,-15.0,4.793770855416042
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.173757595601444,-15.0,4.797784827681241
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.174848774555187,-15.0,4.800193211136062
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.1755034819534558,-15.0,4.8016382412663745
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.1758963064080206,-15.0,4.802505259379018
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.1761320010901386,-15.0,4.803025470267272
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:27:28] [Server thread/WARN]: Spruce Boat (vehicle of Zumquirelle) moved too quickly! 2.176273417905037,-15.0,4.803337596812625
-[00:30:03] [Server thread/WARN]: Zumquirelle moved too quickly! -9.113022406281061,-3.975575911786308,2.378218306174176
-[00:30:31] [Server thread/WARN]: Zumquirelle moved too quickly! -8.830363575546471,-0.6709083839322929,-5.075134714640512
-[00:31:15] [Server thread/WARN]: Zumquirelle moved too quickly! -4.492935015984131,-1.9003585789729982,8.97632790934972
-[00:32:04] [Server thread/WARN]: Zumquirelle moved too quickly! -10.266294459504252,-1.252203340253729,-0.11319747892821397
-[00:36:52] [Server thread/WARN]: Zumquirelle moved too quickly! 1.076721329751308,-0.7420008964847256,-10.002815458972918
-[00:37:31] [Server thread/WARN]: Zumquirelle moved too quickly! 8.848850741456317,-2.125,4.2988165466811665
-[00:37:36] [Server thread/INFO]: Zumquirelle lost connection: Timed out
-[00:37:36] [Server thread/INFO]: Zumquirelle left the game
-[00:37:53] [Server thread/INFO]: Zumquirelle (/24.60.30.191:52226) lost connection: Disconnected
-[00:57:58] [Server thread/INFO]: Stopping the server
-[00:57:58] [Server thread/INFO]: Stopping server
-[00:57:58] [Server thread/INFO]: Saving players
-[00:57:58] [Server thread/INFO]: Saving worlds
-[00:57:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:57:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:57:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:57:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:57:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:57:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:57:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:04:33] [Server thread/INFO]: wwwtoastercom was slain by Piglin
+[00:09:56] [Server thread/INFO]: wwwtoastercom has made the advancement [Ice Bucket Challenge]
+[00:14:24] [Server thread/INFO]: wwwtoastercom lost connection: Disconnected
+[00:14:24] [Server thread/INFO]: wwwtoastercom left the game
+[00:36:46] [Server thread/INFO]: [Not Secure] [Server] sorry for late night restart, just got home
+[00:36:50] [Server thread/INFO]: [Not Secure] [Server] is now a good time?
+[00:37:01] [Server thread/INFO]: <Indicte> can you give me like 15 seconds
+[00:37:05] [Server thread/INFO]: [Not Secure] [Server] sure
+[00:37:12] [Server thread/INFO]: [Not Secure] [Server] drop it in chat when youre good
+[00:38:26] [Server thread/INFO]: <Indicte> aight go ahead
+[00:38:34] [Server thread/INFO]: <Indicte> thanks for waiting a bit
+[00:39:04] [Server thread/INFO]: Indicte lost connection: Disconnected
+[00:39:04] [Server thread/INFO]: Indicte left the game
+[00:39:13] [Server thread/INFO]: Stopping the server
+[00:39:13] [Server thread/INFO]: Stopping server
+[00:39:13] [Server thread/INFO]: Saving players
+[00:39:13] [Server thread/INFO]: Saving worlds
+[00:39:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:39:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:39:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:39:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:39:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:39:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:39:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
