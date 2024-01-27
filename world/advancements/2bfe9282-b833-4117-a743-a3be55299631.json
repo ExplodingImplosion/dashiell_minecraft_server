@@ -897,6 +897,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-01-26 21:44:12 -0500",
       "minecraft:skeleton": "2024-01-20 21:02:05 -0500",
       "minecraft:piglin": "2024-01-25 16:13:02 -0500",
       "minecraft:enderman": "2024-01-25 15:53:29 -0500",
@@ -3202,6 +3203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-01-25 19:53:57 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-01-25 19:54:24 -0500"
@@ -3214,9 +3221,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/quartz_from_blasting": {
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
-      "has_nether_quartz_ore": "2024-01-25 19:53:57 -0500"
+      "has_chicken": "2024-01-26 20:55:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-01-26 20:55:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-01-26 20:55:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-01-26 21:44:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-01-26 22:17:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-01-26 21:14:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-01-26 20:40:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-01-26 22:17:02 -0500"
     },
     "done": true
   },
