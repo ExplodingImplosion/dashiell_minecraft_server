@@ -1,13 +1,11 @@
-[00:29:46] [Server thread/INFO]: Zumquirelle lost connection: Disconnected
-[00:29:46] [Server thread/INFO]: Zumquirelle left the game
-[01:24:11] [Server thread/INFO]: Stopping the server
-[01:24:11] [Server thread/INFO]: Stopping server
-[01:24:11] [Server thread/INFO]: Saving players
-[01:24:11] [Server thread/INFO]: Saving worlds
-[01:24:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:24:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:24:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:24:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:24:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:24:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:24:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:10:16] [Server thread/INFO]: Stopping the server
+[00:10:16] [Server thread/INFO]: Stopping server
+[00:10:16] [Server thread/INFO]: Saving players
+[00:10:16] [Server thread/INFO]: Saving worlds
+[00:10:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:10:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:10:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:10:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:10:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:10:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:10:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

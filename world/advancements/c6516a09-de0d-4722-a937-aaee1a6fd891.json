@@ -4746,21 +4746,21 @@
     },
     "done": true
   },
-  "minecraft:end/kill_dragon": {
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "killed_dragon": "2024-01-26 16:21:29 -0500"
+      "has_smithing_trim_template": "2024-01-26 15:23:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2024-01-26 15:23:08 -0500"
     },
     "done": true
   },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2024-01-26 15:29:04 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2024-01-26 15:23:08 -0500"
     },
     "done": true
   },
@@ -4776,9 +4776,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+  "minecraft:end/kill_dragon": {
     "criteria": {
-      "has_vex_armor_trim_smithing_template": "2024-01-26 15:23:08 -0500"
+      "killed_dragon": "2024-01-26 16:21:29 -0500"
     },
     "done": true
   },
