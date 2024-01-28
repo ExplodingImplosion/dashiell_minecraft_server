@@ -1,11 +1,238 @@
-[00:10:16] [Server thread/INFO]: Stopping the server
-[00:10:16] [Server thread/INFO]: Stopping server
-[00:10:16] [Server thread/INFO]: Saving players
-[00:10:16] [Server thread/INFO]: Saving worlds
-[00:10:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:10:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:10:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:10:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:10:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:10:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:10:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:12:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:12:19] [ServerMain/INFO]: Loaded 7 recipes
+[00:12:19] [ServerMain/INFO]: Loaded 1280 advancements
+[00:12:20] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[00:12:20] [Server thread/INFO]: Loading properties
+[00:12:20] [Server thread/INFO]: Default game type: SURVIVAL
+[00:12:20] [Server thread/INFO]: Generating keypair
+[00:12:20] [Server thread/INFO]: Starting Minecraft server on 192.168.86.140:25565
+[00:12:20] [Server thread/INFO]: Using default channel type
+[00:12:20] [Server thread/INFO]: Preparing level "world"
+[00:12:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:12:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:12:23] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[00:12:23] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[00:12:23] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[00:12:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:12:24] [Worker-Main-2/INFO]: Preparing spawn area: 69%
+[00:12:24] [Server thread/INFO]: Time elapsed: 2595 ms
+[00:12:24] [Server thread/INFO]: Done (4.022s)! For help, type "help"
+[00:18:29] [User Authenticator #1/INFO]: UUID of player King_Orion is 9438c271-6781-41d2-a23c-ae87f86eefcc
+[00:18:29] [Server thread/INFO]: King_Orion[/132.198.28.41:54792] logged in with entity id 36 at (-364.1938352533209, 69.0, 492.9321599543515)
+[00:18:29] [Server thread/INFO]: King_Orion joined the game
+[00:44:38] [Server thread/INFO]: King_Orion lost connection: Disconnected
+[00:44:38] [Server thread/INFO]: King_Orion left the game
+[07:59:11] [User Authenticator #2/INFO]: UUID of player Indicte is c6516a09-de0d-4722-a937-aaee1a6fd891
+[07:59:11] [Server thread/INFO]: Indicte[/209.6.169.219:54522] logged in with entity id 5605 at (-1887.2111161845503, 65.11398369728828, -848.1160671580094)
+[07:59:11] [Server thread/INFO]: Indicte joined the game
+[08:07:06] [Server thread/INFO]: Indicte lost connection: Disconnected
+[08:07:06] [Server thread/INFO]: Indicte left the game
+[08:07:08] [User Authenticator #3/INFO]: UUID of player Indicte is c6516a09-de0d-4722-a937-aaee1a6fd891
+[08:07:08] [Server thread/INFO]: Indicte[/209.6.169.219:54578] logged in with entity id 12691 at (1469.7179237338282, 31.0, -767.456646679509)
+[08:07:08] [Server thread/INFO]: Indicte joined the game
+[08:13:49] [Server thread/INFO]: Indicte lost connection: Disconnected
+[08:13:49] [Server thread/INFO]: Indicte left the game
+[08:13:50] [User Authenticator #4/INFO]: UUID of player Indicte is c6516a09-de0d-4722-a937-aaee1a6fd891
+[08:13:50] [Server thread/INFO]: Indicte[/209.6.169.219:54611] logged in with entity id 18887 at (-766.8840898806963, 91.0, 1503.699999988079)
+[08:13:50] [Server thread/INFO]: Indicte joined the game
+[08:26:24] [Server thread/WARN]: Indicte moved wrongly!
+[08:26:41] [Server thread/INFO]: Indicte lost connection: Disconnected
+[08:26:41] [Server thread/INFO]: Indicte left the game
+[11:46:32] [User Authenticator #5/INFO]: UUID of player Bemf is 258fbffa-8298-496c-b36b-2e67556655e5
+[11:46:32] [Server thread/INFO]: Bemf[/130.64.64.69:58705] logged in with entity id 26234 at (-1872.6202092120761, 63.0, -875.6143472553093)
+[11:46:32] [Server thread/INFO]: Bemf joined the game
+[11:52:21] [Server thread/INFO]: Bemf has made the advancement [Glow and Behold!]
+[11:55:34] [Server thread/INFO]: Bemf lost connection: Disconnected
+[11:55:34] [Server thread/INFO]: Bemf left the game
+[12:01:10] [User Authenticator #6/INFO]: UUID of player Bemf is 258fbffa-8298-496c-b36b-2e67556655e5
+[12:01:10] [Server thread/INFO]: Bemf[/130.64.64.69:63558] logged in with entity id 29592 at (-1815.9397906929926, 72.0, -2607.735020524028)
+[12:01:10] [Server thread/INFO]: Bemf joined the game
+[12:11:10] [User Authenticator #7/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[12:11:10] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50128] logged in with entity id 32853 at (-1647.2942940715254, 139.0, -2168.975617115253)
+[12:11:10] [Server thread/INFO]: Zumquirelle joined the game
+[12:11:14] [Server thread/INFO]: <Bemf> morning
+[12:11:18] [Server thread/INFO]: <Zumquirelle> indeed
+[12:11:22] [Server thread/INFO]: <Zumquirelle> well
+[12:11:24] [Server thread/INFO]: <Zumquirelle> afternoon
+[12:11:27] [Server thread/INFO]: <Zumquirelle> vc?
+[12:11:30] [Server thread/INFO]: <Bemf> oh damn
+[12:11:37] [Server thread/INFO]: <Bemf> uh cant rn, maybe later
+[12:13:46] [Server thread/INFO]: <Bemf> colosseum is usable
+[12:13:51] [Server thread/INFO]: <Zumquirelle> cool
+[12:18:51] [Server thread/INFO]: Zumquirelle lost connection: Disconnected
+[12:18:51] [Server thread/INFO]: Zumquirelle left the game
+[12:20:21] [User Authenticator #8/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[12:20:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@7e748747[id=0656d51b-fc45-439f-8850-f95f9f205cc5,name=Zumquirelle,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTcwNjQ2MjQxOTg0NiwKICAicHJvZmlsZUlkIiA6ICIwNjU2ZDUxYmZjNDU0MzlmODg1MGY5NWY5ZjIwNWNjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJadW1xdWlyZWxsZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80M2IyNjU2MmU4OWU4MThjZTBlNGMzNjVkODNmYjc3MmJmZjY5N2I1NGY1NDIyMmE3ZDliMjE2OWY5NGI5YjUyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=, signature=dYGuNphH8uYOL7fgE/n9jrUe8rwsCrRH6GA/xGH9j/edE61Fa33x2fktsaPDpXR0SJoqQQrgnXTav8LJf1XInRoQfoD3yPOtCVhbwdRNxCybHo+dU4iNfHWSHRK/6+0ix28Xa6gCJfCJ9fO3K3iJNtn5M2Tehx5/aMLilOgKeWr+LT2xIgJ5QiEI3M83xpFzAF71IAuhjT+tK3+cZIM6wpvn1/rvqF7JnkUi0HsywTrOpicXIQFhHYOB3I8P3KH9Zk2AtUJ6aktlOQ/kWycseX/VwM1Ai4PsyxDUxbnPMNHKKFCuLlfdqRAawv3C6nnF8cCbFNo0DCHMEFxxX13Lf7uDH9seyex0c2wB/1xNAmZp67nf5d6psIwKaOPKRHEtVWSAVUiwWreRvdhkQOeB8XtE61K51elcJfCDzkN4qdMCOBrkFzNFOuKrSwcKwTWlAkrwCGdVL0mE/KkXgBXgkD5aXmjMzUb/xLph2XdP81JJs+CM7pu2kzVyLnhh2kmpFEh0OSoI6wH+T4yFAbtw+wVajUTWkL3dgRcMcZqibcuKDY1L6DCrZiyQhmYsnbd9I05ZgHFi+M/RhKzLMby4inev1DwhY66F0MvXCydR00Mx4qa79soW32t3TANCjy16NSjsdiJtD6+M5XOqAImDC8/33BNbhQqb1TWR1IwvvPk=]]}] lost connection: Timed out
+[12:21:32] [User Authenticator #9/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[12:21:32] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50320] logged in with entity id 40370 at (-1881.1192334456175, 139.0, -2314.3086614030344)
+[12:21:32] [Server thread/INFO]: Zumquirelle joined the game
+[12:21:41] [Server thread/INFO]: <Zumquirelle> come to my base
+[12:21:46] [Server thread/INFO]: <Bemf> i saw you are working on something huge
+[12:21:47] [Server thread/INFO]: <Zumquirelle> i have done a goofy
+[12:22:36] [User Authenticator #10/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[12:22:40] [Server thread/INFO]: Zumquirelle (/24.60.30.191:50326) lost connection: Disconnected
+[12:22:43] [User Authenticator #11/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[12:22:47] [Server thread/INFO]: Zumquirelle lost connection: Timed out
+[12:22:47] [Server thread/INFO]: Zumquirelle left the game
+[12:22:49] [Server thread/INFO]: Zumquirelle (/24.60.30.191:50330) lost connection: Disconnected
+[12:22:53] [User Authenticator #12/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[12:22:54] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50332] logged in with entity id 41029 at (-1779.404279501352, 107.66738784599696, -2230.8346346758995)
+[12:22:54] [Server thread/INFO]: Zumquirelle joined the game
+[12:23:51] [Server thread/INFO]: Zumquirelle lost connection: Timed out
+[12:23:51] [Server thread/INFO]: Zumquirelle left the game
+[12:24:30] [User Authenticator #13/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[12:25:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@12457802[id=0656d51b-fc45-439f-8850-f95f9f205cc5,name=Zumquirelle,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTcwNjQ2MjY2OTI2NywKICAicHJvZmlsZUlkIiA6ICIwNjU2ZDUxYmZjNDU0MzlmODg1MGY5NWY5ZjIwNWNjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJadW1xdWlyZWxsZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80M2IyNjU2MmU4OWU4MThjZTBlNGMzNjVkODNmYjc3MmJmZjY5N2I1NGY1NDIyMmE3ZDliMjE2OWY5NGI5YjUyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=, signature=V0WZ6T4Jemu3oynByNHpEkb+1h+IM4taQap9uOYWcF4uBi9kydmSBCCKQWuqa9+nWkJfrRaDScmgdDogPPntgUPkZ75VyE7QiZZYxchjO7D2X5fAD80VJp0OLSxQBSKxIthwcNCBfgxsuYxhWjoCyJChKeKP6OAzV9RHivLiIQBCdmBH+uMMqELheeQKYDz3/EezOm0ykIAIr5dktpYj7XJxfFzIy+rfvYf1gV0QiqyHL98ACCHtUTTI2V/Z1cSiLlob90tbmvbQyrywGp+K/xpCFq4V4dXzucfal2OxixuCb3BoDXdK0dnlVcmA6QumjtjctyiBJAeTyRwXNiLCI0pfbEAUecQDp1HCrHaiFPsqPlRP5i3DlD2a8TqO7busRcZ+tRD5gpbsbHFMuw/fL1w2l0ISiyGu+W/PV02vTMYB5uoX+sumtyo/allO4sMNaecpXh4GW7VjLljQwnHHULbTggAjGVuBaM5HGtrFjYYKTNEd1UxEHVvrSQ3Jpk8xizzqRdudKxpAc6X9qHThbm+J9KZ0og1OZZBi5UlLfqvZ61OL1usS9TN/4DAYUro6qvVwUFa3YYkQYdBN8GkAEJ1Ih4tis9eSJJdVAciAk2OJFVsHi5NEYXjvanKhmqvpznGa1ApRZVXSxl0tRX4/jRAXaJqdvfcDkjO9tnIJ38k=]]}] lost connection: Timed out
+[12:25:25] [User Authenticator #14/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[12:25:36] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50379] logged in with entity id 41350 at (-1734.310480358483, 78.17015554466168, -2212.361042333488)
+[12:25:36] [Server thread/INFO]: Zumquirelle joined the game
+[12:26:21] [Server thread/WARN]: Zumquirelle was kicked for floating too long!
+[12:26:21] [Server thread/INFO]: Zumquirelle lost connection: Flying is not enabled on this server
+[12:26:21] [Server thread/INFO]: Zumquirelle left the game
+[12:26:25] [User Authenticator #15/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[12:26:25] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50414] logged in with entity id 41478 at (-1728.0375652556008, 80.0902341494429, -2196.005415766194)
+[12:26:25] [Server thread/INFO]: Zumquirelle joined the game
+[12:26:52] [Server thread/INFO]: <Bemf> lag?
+[12:27:00] [Server thread/INFO]: <Zumquirelle> my internet died
+[12:27:03] [Server thread/INFO]: <Bemf> ah
+[12:27:11] [Server thread/INFO]: <Zumquirelle> anyway
+[12:27:12] [Server thread/INFO]: <Bemf> this looks like a huge project
+[12:27:22] [Server thread/INFO]: <Zumquirelle> i mapped out the ENTIRE border of the biome
+[12:27:31] [Server thread/INFO]: <Bemf> damn
+[12:28:19] [Server thread/INFO]: <Zumquirelle> i know you are going to ask why; simple answer: so i never build outside of the biome,. and accidentally create a mob farm in my base
+[12:28:28] [Server thread/INFO]: <Bemf> lol
+[12:28:34] [Server thread/INFO]: <Zumquirelle> only on purpose mob farms
+[12:28:47] [Server thread/INFO]: <Bemf> oh can i have some wax? i wanna make candles
+[12:28:58] [Server thread/INFO]: <Zumquirelle> sure
+[12:29:33] [Server thread/INFO]: <Zumquirelle> leave 1 in the slot
+[12:29:57] [Server thread/INFO]: <Bemf> idk how it works
+[12:30:42] [Server thread/INFO]: <Bemf> wanna see the colosseum
+[12:32:57] [Server thread/INFO]: <Zumquirelle> this is sweet
+[12:33:06] [Server thread/INFO]: <Bemf> ignore the netherack
+[12:34:17] [Server thread/INFO]: <Bemf> lmk if you wanna try it out
+[12:34:32] [Server thread/INFO]: <Zumquirelle> definetly,
+[12:34:36] [Server thread/INFO]: <Zumquirelle> eventually
+[12:35:49] [Server thread/INFO]: Zumquirelle lost connection: Disconnected
+[12:35:49] [Server thread/INFO]: Zumquirelle left the game
+[12:35:53] [User Authenticator #16/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[12:35:54] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50481] logged in with entity id 44566 at (-1739.2570920650367, 83.875, -2168.5831867448205)
+[12:35:54] [Server thread/INFO]: Zumquirelle joined the game
+[12:37:22] [Server thread/INFO]: Zumquirelle lost connection: Disconnected
+[12:37:22] [Server thread/INFO]: Zumquirelle left the game
+[12:37:25] [User Authenticator #17/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[12:37:25] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50491] logged in with entity id 45266 at (-1724.699999988079, 72.0, -2169.699999988079)
+[12:37:25] [Server thread/INFO]: Zumquirelle joined the game
+[12:37:54] [Server thread/INFO]: Zumquirelle lost connection: Disconnected
+[12:37:54] [Server thread/INFO]: Zumquirelle left the game
+[12:37:58] [User Authenticator #18/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[12:37:59] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50501] logged in with entity id 45735 at (-1736.4969558255787, 82.0, -2172.521302041318)
+[12:37:59] [Server thread/INFO]: Zumquirelle joined the game
+[12:38:40] [Server thread/INFO]: Zumquirelle lost connection: Disconnected
+[12:38:40] [Server thread/INFO]: Zumquirelle left the game
+[12:38:42] [User Authenticator #19/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[12:38:43] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50507] logged in with entity id 46455 at (-1926.6991783300668, 83.5834947400371, -2233.1169607274596)
+[12:38:43] [Server thread/INFO]: Zumquirelle joined the game
+[12:39:22] [Server thread/INFO]: <Bemf> brb
+[12:39:24] [Server thread/INFO]: Bemf lost connection: Disconnected
+[12:39:24] [Server thread/INFO]: Bemf left the game
+[12:42:17] [Server thread/INFO]: Zumquirelle lost connection: Disconnected
+[12:42:17] [Server thread/INFO]: Zumquirelle left the game
+[12:42:18] [User Authenticator #20/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[12:42:18] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50579] logged in with entity id 48004 at (-1736.2886737128074, 82.0, -2171.3732036466013)
+[12:42:18] [Server thread/INFO]: Zumquirelle joined the game
+[12:42:40] [Server thread/INFO]: Zumquirelle lost connection: Disconnected
+[12:42:40] [Server thread/INFO]: Zumquirelle left the game
+[12:42:42] [User Authenticator #21/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[12:42:42] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50588] logged in with entity id 48220 at (-1736.676370863863, 82.0, -2171.0170866741905)
+[12:42:42] [Server thread/INFO]: Zumquirelle joined the game
+[12:42:50] [Server thread/INFO]: Zumquirelle lost connection: Disconnected
+[12:42:50] [Server thread/INFO]: Zumquirelle left the game
+[12:42:54] [User Authenticator #22/INFO]: UUID of player Bemf is 258fbffa-8298-496c-b36b-2e67556655e5
+[12:42:55] [Server thread/INFO]: Bemf[/130.64.64.69:51331] logged in with entity id 48422 at (-1824.2388296330462, 76.0, -2585.603462501263)
+[12:42:55] [Server thread/INFO]: Bemf joined the game
+[12:42:55] [User Authenticator #23/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[12:42:57] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50596] logged in with entity id 48584 at (-1736.676370863863, 82.0, -2171.0170866741905)
+[12:42:57] [Server thread/INFO]: Zumquirelle joined the game
+[12:43:09] [Server thread/INFO]: Zumquirelle lost connection: Disconnected
+[12:43:09] [Server thread/INFO]: Zumquirelle left the game
+[12:43:20] [User Authenticator #24/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[12:43:20] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50603] logged in with entity id 48943 at (-1736.8277660206963, 83.875, -2168.5080244217284)
+[12:43:20] [Server thread/INFO]: Zumquirelle joined the game
+[12:43:50] [Server thread/INFO]: Zumquirelle lost connection: Disconnected
+[12:43:50] [Server thread/INFO]: Zumquirelle left the game
+[12:43:51] [User Authenticator #25/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[12:43:51] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50611] logged in with entity id 49539 at (-1736.990644303815, 82.0, -2171.204459104896)
+[12:43:51] [Server thread/INFO]: Zumquirelle joined the game
+[12:45:52] [User Authenticator #26/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[12:45:52] [Server thread/INFO]: Zumquirelle lost connection: You logged in from another location
+[12:45:52] [Server thread/INFO]: Zumquirelle left the game
+[12:45:53] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50618] logged in with entity id 51084 at (-1738.1041427126543, 82.0, -2171.1166273456006)
+[12:45:53] [Server thread/INFO]: Zumquirelle joined the game
+[12:46:04] [User Authenticator #27/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[12:46:32] [Server thread/INFO]: Zumquirelle lost connection: Timed out
+[12:46:32] [Server thread/INFO]: Zumquirelle left the game
+[12:46:33] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50630] logged in with entity id 52031 at (-1739.7682888912734, 82.41999998688698, -2171.300000011921)
+[12:46:33] [Server thread/INFO]: Zumquirelle joined the game
+[12:47:15] [Server thread/INFO]: Zumquirelle lost connection: Disconnected
+[12:47:15] [Server thread/INFO]: Zumquirelle left the game
+[12:47:22] [User Authenticator #28/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[12:47:22] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50636] logged in with entity id 52456 at (-1738.483994163922, 82.0, -2172.8944334901053)
+[12:47:22] [Server thread/INFO]: Zumquirelle joined the game
+[12:47:57] [Server thread/INFO]: Zumquirelle lost connection: Disconnected
+[12:47:57] [Server thread/INFO]: Zumquirelle left the game
+[12:48:13] [User Authenticator #29/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[12:48:14] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50662] logged in with entity id 52877 at (-1737.9739129769737, 82.0, -2172.6546124910583)
+[12:48:14] [Server thread/INFO]: Zumquirelle joined the game
+[12:51:52] [Server thread/INFO]: Zumquirelle lost connection: Disconnected
+[12:51:52] [Server thread/INFO]: Zumquirelle left the game
+[12:51:59] [User Authenticator #30/INFO]: Disconnecting Zumquirelle (/24.60.30.191:50693): Authentication servers are down. Please try again later, sorry!
+[12:51:59] [User Authenticator #30/ERROR]: Couldn't verify username because servers are unavailable
+[12:51:59] [Server thread/INFO]: Zumquirelle (/24.60.30.191:50693) lost connection: Authentication servers are down. Please try again later, sorry!
+[12:52:09] [Server thread/INFO]: Zumquirelle (/24.60.30.191:50696) lost connection: Disconnected
+[12:52:11] [User Authenticator #31/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[12:52:12] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50698] logged in with entity id 54650 at (-1737.6441405830144, 83.0, -2171.572261180322)
+[12:52:12] [Server thread/INFO]: Zumquirelle joined the game
+[12:59:33] [Server thread/WARN]: Zumquirelle moved too quickly! 1.97570557377432,9.103157472825437,-5.551200321285393
+[12:59:37] [Server thread/WARN]: Zumquirelle was kicked for floating too long!
+[12:59:37] [Server thread/INFO]: Zumquirelle lost connection: Flying is not enabled on this server
+[12:59:37] [Server thread/INFO]: Zumquirelle left the game
+[12:59:48] [User Authenticator #32/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[12:59:49] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50734] logged in with entity id 58004 at (-222.45971709758493, 67.3412379939194, -135.1050755733645)
+[12:59:49] [Server thread/INFO]: Zumquirelle joined the game
+[12:59:59] [Server thread/INFO]: Zumquirelle lost connection: Disconnected
+[12:59:59] [Server thread/INFO]: Zumquirelle left the game
+[13:00:44] [User Authenticator #33/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[13:00:45] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50743] logged in with entity id 58361 at (-226.28228823795592, 59.0, -121.30000001192093)
+[13:00:45] [Server thread/INFO]: Zumquirelle joined the game
+[13:01:19] [Server thread/INFO]: Zumquirelle lost connection: Disconnected
+[13:01:19] [Server thread/INFO]: Zumquirelle left the game
+[13:01:35] [Server thread/INFO]: Zumquirelle (/24.60.30.191:50753) lost connection: Disconnected
+[13:03:13] [User Authenticator #34/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[13:03:13] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50879] logged in with entity id 59195 at (-168.26817446511367, 52.14656881153378, -251.664587455218)
+[13:03:13] [Server thread/INFO]: Zumquirelle joined the game
+[13:11:21] [Server thread/INFO]: Zumquirelle lost connection: Disconnected
+[13:11:21] [Server thread/INFO]: Zumquirelle left the game
+[13:11:21] [User Authenticator #35/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[13:11:22] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50925] logged in with entity id 64501 at (-1264.0912398682522, 79.0, -1542.0093359510788)
+[13:11:22] [Server thread/INFO]: Zumquirelle joined the game
+[13:12:08] [Server thread/INFO]: Zumquirelle lost connection: Disconnected
+[13:12:08] [Server thread/INFO]: Zumquirelle left the game
+[13:12:09] [User Authenticator #36/INFO]: UUID of player Zumquirelle is 0656d51b-fc45-439f-8850-f95f9f205cc5
+[13:12:10] [Server thread/INFO]: Zumquirelle[/24.60.30.191:50933] logged in with entity id 64970 at (-1320.6650706785106, 63.08480328455673, -1549.176013600493)
+[13:12:10] [Server thread/INFO]: Zumquirelle joined the game
+[13:14:35] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-1291, y=76, z=-1544} hx{x=-1293, y=75, z=-1544}
+[13:18:22] [Server thread/WARN]: Zumquirelle moved too quickly! 14.895042389961418,-4.133325289978501,9.386293264032929
+[13:18:53] [Server thread/INFO]: Zumquirelle lost connection: Disconnected
+[13:18:53] [Server thread/INFO]: Zumquirelle left the game
+[13:50:02] [Server thread/INFO]: Bemf lost connection: Disconnected
+[13:50:02] [Server thread/INFO]: Bemf left the game
+[15:12:31] [Server thread/INFO]: Stopping the server
+[15:12:32] [Server thread/INFO]: Stopping server
+[15:12:32] [Server thread/INFO]: Saving players
+[15:12:32] [Server thread/INFO]: Saving worlds
+[15:12:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:12:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:12:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:12:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:12:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:12:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:12:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
