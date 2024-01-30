@@ -1,47 +1,138 @@
-[00:02:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:02:33] [ServerMain/INFO]: Loaded 7 recipes
-[00:02:33] [ServerMain/INFO]: Loaded 1280 advancements
-[00:02:34] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[00:02:34] [Server thread/INFO]: Loading properties
-[00:02:34] [Server thread/INFO]: Default game type: SURVIVAL
-[00:02:34] [Server thread/INFO]: Generating keypair
-[00:02:34] [Server thread/INFO]: Starting Minecraft server on 192.168.86.140:25565
-[00:02:34] [Server thread/INFO]: Using default channel type
-[00:02:34] [Server thread/INFO]: Preparing level "world"
-[00:02:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:02:37] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[00:02:37] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[00:02:37] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[00:02:37] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[00:02:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:02:38] [Server thread/INFO]: Time elapsed: 2501 ms
-[00:02:38] [Server thread/INFO]: Done (3.819s)! For help, type "help"
-[00:07:07] [User Authenticator #1/INFO]: UUID of player Indicte is c6516a09-de0d-4722-a937-aaee1a6fd891
-[00:07:07] [Server thread/INFO]: Indicte[/209.6.169.219:54376] logged in with entity id 35 at (-1833.7778159872119, 66.0, -815.5406988286564)
-[00:07:07] [Server thread/INFO]: Indicte joined the game
-[00:27:26] [Server thread/INFO]: Indicte lost connection: Disconnected
-[00:27:26] [Server thread/INFO]: Indicte left the game
-[09:13:36] [User Authenticator #2/INFO]: UUID of player Indicte is c6516a09-de0d-4722-a937-aaee1a6fd891
-[09:13:36] [Server thread/INFO]: Indicte[/209.6.169.219:55102] logged in with entity id 5811 at (-1864.4584201357013, 64.5, -844.6571613225129)
-[09:13:36] [Server thread/INFO]: Indicte joined the game
-[09:34:56] [User Authenticator #3/INFO]: UUID of player Indicte is c6516a09-de0d-4722-a937-aaee1a6fd891
-[09:35:02] [Server thread/INFO]: Indicte (/209.6.169.219:55974) lost connection: Disconnected
-[09:35:04] [User Authenticator #4/INFO]: UUID of player Indicte is c6516a09-de0d-4722-a937-aaee1a6fd891
-[09:35:12] [Server thread/INFO]: Indicte lost connection: Disconnected
-[09:35:12] [Server thread/INFO]: Indicte left the game
-[09:35:13] [Server thread/INFO]: Indicte[/209.6.169.219:55977] logged in with entity id 12534 at (-1791.5595625159206, 63.0, -835.9903585631353)
-[09:35:13] [Server thread/INFO]: Indicte joined the game
-[09:38:40] [Server thread/INFO]: Indicte has completed the challenge [Hero of the Village]
-[10:15:40] [Server thread/INFO]: Indicte lost connection: Disconnected
-[10:15:40] [Server thread/INFO]: Indicte left the game
-[11:22:49] [Server thread/INFO]: Stopping the server
-[11:22:49] [Server thread/INFO]: Stopping server
-[11:22:49] [Server thread/INFO]: Saving players
-[11:22:49] [Server thread/INFO]: Saving worlds
-[11:22:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[11:22:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[11:22:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[11:22:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:22:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:22:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:22:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:23:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:23:17] [ServerMain/INFO]: Loaded 7 recipes
+[11:23:18] [ServerMain/INFO]: Loaded 1280 advancements
+[11:23:18] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[11:23:18] [Server thread/INFO]: Loading properties
+[11:23:18] [Server thread/INFO]: Default game type: SURVIVAL
+[11:23:18] [Server thread/INFO]: Generating keypair
+[11:23:19] [Server thread/INFO]: Starting Minecraft server on 192.168.86.140:25565
+[11:23:19] [Server thread/INFO]: Using default channel type
+[11:23:19] [Server thread/INFO]: Preparing level "world"
+[11:23:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:23:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:23:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:23:22] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[11:23:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[11:23:22] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[11:23:22] [Server thread/INFO]: Time elapsed: 2478 ms
+[11:23:22] [Server thread/INFO]: Done (3.766s)! For help, type "help"
+[11:55:01] [Server thread/INFO]: /advancement (grant|revoke)
+[11:55:01] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[11:55:01] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[11:55:01] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[11:55:01] [Server thread/INFO]: /clear [<targets>]
+[11:55:01] [Server thread/INFO]: /clone (<begin>|from)
+[11:55:01] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
+[11:55:01] [Server thread/INFO]: /data (merge|get|remove|modify)
+[11:55:01] [Server thread/INFO]: /datapack (enable|disable|list)
+[11:55:01] [Server thread/INFO]: /debug (start|stop|function)
+[11:55:01] [Server thread/INFO]: /defaultgamemode <gamemode>
+[11:55:01] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[11:55:01] [Server thread/INFO]: /effect (clear|give)
+[11:55:01] [Server thread/INFO]: /me <action>
+[11:55:01] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[11:55:01] [Server thread/INFO]: /experience (add|set|query)
+[11:55:01] [Server thread/INFO]: /xp -> experience
+[11:55:01] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[11:55:01] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
+[11:55:01] [Server thread/INFO]: /forceload (add|remove|query)
+[11:55:01] [Server thread/INFO]: /function <name> [<arguments>|with]
+[11:55:01] [Server thread/INFO]: /gamemode <gamemode> [<target>]
+[11:55:01] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[11:55:01] [Server thread/INFO]: /give <targets> <item> [<count>]
+[11:55:01] [Server thread/INFO]: /help [<command>]
+[11:55:01] [Server thread/INFO]: /item (replace|modify)
+[11:55:01] [Server thread/INFO]: /kick <targets> [<reason>]
+[11:55:01] [Server thread/INFO]: /kill [<targets>]
+[11:55:01] [Server thread/INFO]: /list [uuids]
+[11:55:01] [Server thread/INFO]: /locate (structure|biome|poi)
+[11:55:01] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[11:55:01] [Server thread/INFO]: /msg <targets> <message>
+[11:55:01] [Server thread/INFO]: /tell -> msg
+[11:55:01] [Server thread/INFO]: /w -> msg
+[11:55:01] [Server thread/INFO]: /particle <name> [<pos>]
+[11:55:01] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[11:55:01] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[11:55:01] [Server thread/INFO]: /random (value|roll|reset)
+[11:55:01] [Server thread/INFO]: /reload
+[11:55:01] [Server thread/INFO]: /recipe (give|take)
+[11:55:01] [Server thread/INFO]: /return (<value>|fail|run)
+[11:55:01] [Server thread/INFO]: /ride <target> (mount|dismount)
+[11:55:01] [Server thread/INFO]: /say <message>
+[11:55:01] [Server thread/INFO]: /schedule (function|clear)
+[11:55:01] [Server thread/INFO]: /scoreboard (objectives|players)
+[11:55:01] [Server thread/INFO]: /seed
+[11:55:01] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[11:55:01] [Server thread/INFO]: /spawnpoint [<targets>]
+[11:55:01] [Server thread/INFO]: /setworldspawn [<pos>]
+[11:55:01] [Server thread/INFO]: /spectate [<target>]
+[11:55:01] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[11:55:01] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[11:55:01] [Server thread/INFO]: /summon <entity> [<pos>]
+[11:55:01] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[11:55:01] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[11:55:01] [Server thread/INFO]: /teammsg <message>
+[11:55:01] [Server thread/INFO]: /tm -> teammsg
+[11:55:01] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[11:55:01] [Server thread/INFO]: /tp -> teleport
+[11:55:01] [Server thread/INFO]: /tellraw <targets> <message>
+[11:55:01] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
+[11:55:01] [Server thread/INFO]: /time (set|add|query)
+[11:55:01] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[11:55:01] [Server thread/INFO]: /trigger <objective> [add|set]
+[11:55:01] [Server thread/INFO]: /weather (clear|rain|thunder)
+[11:55:01] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[11:55:01] [Server thread/INFO]: /jfr (start|stop)
+[11:55:01] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[11:55:01] [Server thread/INFO]: /banlist [ips|players]
+[11:55:01] [Server thread/INFO]: /ban <targets> [<reason>]
+[11:55:01] [Server thread/INFO]: /deop <targets>
+[11:55:01] [Server thread/INFO]: /op <targets>
+[11:55:01] [Server thread/INFO]: /pardon <targets>
+[11:55:01] [Server thread/INFO]: /pardon-ip <target>
+[11:55:01] [Server thread/INFO]: /perf (start|stop)
+[11:55:01] [Server thread/INFO]: /save-all [flush]
+[11:55:01] [Server thread/INFO]: /save-off
+[11:55:01] [Server thread/INFO]: /save-on
+[11:55:01] [Server thread/INFO]: /setidletimeout <minutes>
+[11:55:01] [Server thread/INFO]: /stop
+[11:55:01] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[11:55:04] [Server thread/INFO]: /op <targets>
+[11:55:20] [Server thread/INFO]: /jfr start
+[11:55:20] [Server thread/INFO]: /jfr stop
+[12:14:30] [User Authenticator #1/INFO]: UUID of player Bemf is 258fbffa-8298-496c-b36b-2e67556655e5
+[12:14:31] [Server thread/INFO]: Bemf[/130.64.64.70:34744] logged in with entity id 36 at (-1169.3835232284985, 76.0, -2310.0791868472684)
+[12:14:31] [Server thread/INFO]: Bemf joined the game
+[12:21:20] [Server thread/INFO]: <Bemf> -2282.5
+[12:21:48] [Server thread/INFO]: <Bemf> -2289.5
+[12:22:10] [Server thread/INFO]: <Bemf> -1182.5
+[12:22:33] [Server thread/INFO]: <Bemf> -1211.5
+[12:22:53] [Server thread/INFO]: <Bemf> 29
+[12:25:10] [Server thread/INFO]: <Bemf> 28
+[12:37:01] [Server thread/INFO]: <Bemf> 1214.5
+[12:37:33] [Server thread/INFO]: <Bemf> -1253.5
+[12:56:54] [Server thread/INFO]: Bemf lost connection: Disconnected
+[12:56:54] [Server thread/INFO]: Bemf left the game
+[14:27:54] [User Authenticator #2/INFO]: UUID of player Bemf is 258fbffa-8298-496c-b36b-2e67556655e5
+[14:27:54] [Server thread/INFO]: Bemf[/130.64.64.70:18908] logged in with entity id 8587 at (-229.69999998807907, 58.875, -121.65480393280204)
+[14:27:54] [Server thread/INFO]: Bemf joined the game
+[14:33:06] [Server thread/INFO]: Bemf lost connection: Disconnected
+[14:33:06] [Server thread/INFO]: Bemf left the game
+[14:33:21] [User Authenticator #3/INFO]: UUID of player Bemf is 258fbffa-8298-496c-b36b-2e67556655e5
+[14:33:21] [Server thread/INFO]: Bemf[/130.64.64.65:62153] logged in with entity id 12425 at (2.3223788431944925, 93.0, -10.846860223815366)
+[14:33:21] [Server thread/INFO]: Bemf joined the game
+[14:34:46] [Server thread/INFO]: <Bemf> 1100 -110
+[14:38:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3488ms or 69 ticks behind
+[14:48:48] [Server thread/INFO]: Bemf lost connection: Disconnected
+[14:48:48] [Server thread/INFO]: Bemf left the game
+[16:28:05] [Server thread/INFO]: Stopping the server
+[16:28:05] [Server thread/INFO]: Stopping server
+[16:28:05] [Server thread/INFO]: Saving players
+[16:28:05] [Server thread/INFO]: Saving worlds
+[16:28:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:28:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:28:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:28:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:28:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:28:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:28:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
