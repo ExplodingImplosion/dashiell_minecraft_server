@@ -1,43 +1,11 @@
-[20:38:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:38:02] [ServerMain/INFO]: Loaded 7 recipes
-[20:38:03] [ServerMain/INFO]: Loaded 1280 advancements
-[20:38:03] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[20:38:03] [Server thread/INFO]: Loading properties
-[20:38:03] [Server thread/INFO]: Default game type: SURVIVAL
-[20:38:03] [Server thread/INFO]: Generating keypair
-[20:38:04] [Server thread/INFO]: Starting Minecraft server on 192.168.86.140:25565
-[20:38:04] [Server thread/INFO]: Using default channel type
-[20:38:04] [Server thread/INFO]: Preparing level "world"
-[20:38:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:38:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:38:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:38:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:38:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:38:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:38:07] [Worker-Main-5/INFO]: Preparing spawn area: 99%
-[20:38:07] [Server thread/INFO]: Time elapsed: 2502 ms
-[20:38:07] [Server thread/INFO]: Done (3.748s)! For help, type "help"
-[21:19:56] [User Authenticator #1/INFO]: UUID of player FrozenJarate is e817ea6d-f451-4c07-8fe9-21ba2518cf00
-[21:19:56] [Server thread/INFO]: FrozenJarate[/132.198.31.255:5047] logged in with entity id 34 at (-2400.2469446735763, 127.0, -6457.045612032048)
-[21:19:56] [Server thread/INFO]: FrozenJarate joined the game
-[21:20:11] [Server thread/INFO]: Gave 1 [Cake] to FrozenJarate
-[21:20:28] [Server thread/INFO]: /kick <targets> [<reason>]
-[21:20:36] [Server thread/INFO]: FrozenJarate lost connection: Disconnected
-[21:20:36] [Server thread/INFO]: FrozenJarate left the game
-[21:21:10] [User Authenticator #2/INFO]: UUID of player FrozenJarate is e817ea6d-f451-4c07-8fe9-21ba2518cf00
-[21:21:10] [Server thread/INFO]: FrozenJarate[/132.198.31.255:60562] logged in with entity id 258 at (-2401.0072406426243, 127.0, -6457.494091381271)
-[21:21:10] [Server thread/INFO]: FrozenJarate joined the game
-[21:21:15] [Server thread/INFO]: Kicked FrozenJarate: happy birthday!
-[21:21:15] [Server thread/INFO]: FrozenJarate lost connection: happy birthday!
-[21:21:15] [Server thread/INFO]: FrozenJarate left the game
-[22:23:15] [Server thread/INFO]: Stopping the server
-[22:23:15] [Server thread/INFO]: Stopping server
-[22:23:15] [Server thread/INFO]: Saving players
-[22:23:15] [Server thread/INFO]: Saving worlds
-[22:23:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:23:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:23:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:23:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:23:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:23:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:23:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:22:55] [Server thread/INFO]: Stopping the server
+[00:22:55] [Server thread/INFO]: Stopping server
+[00:22:55] [Server thread/INFO]: Saving players
+[00:22:55] [Server thread/INFO]: Saving worlds
+[00:22:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:22:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:22:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:22:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:22:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:22:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:22:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
