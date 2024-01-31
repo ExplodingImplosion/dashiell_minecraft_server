@@ -1,80 +1,43 @@
-[16:29:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:29:25] [ServerMain/INFO]: Loaded 7 recipes
-[16:29:25] [ServerMain/INFO]: Loaded 1280 advancements
-[16:29:26] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[16:29:26] [Server thread/INFO]: Loading properties
-[16:29:26] [Server thread/INFO]: Default game type: SURVIVAL
-[16:29:26] [Server thread/INFO]: Generating keypair
-[16:29:26] [Server thread/INFO]: Starting Minecraft server on 192.168.86.140:25565
-[16:29:26] [Server thread/INFO]: Using default channel type
-[16:29:26] [Server thread/INFO]: Preparing level "world"
-[16:29:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:29:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:29:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:29:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:29:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:29:29] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[16:29:30] [Worker-Main-5/INFO]: Preparing spawn area: 70%
-[16:29:30] [Server thread/INFO]: Time elapsed: 2588 ms
-[16:29:30] [Server thread/INFO]: Done (3.869s)! For help, type "help"
-[16:59:09] [User Authenticator #1/INFO]: UUID of player Bemf is 258fbffa-8298-496c-b36b-2e67556655e5
-[16:59:10] [Server thread/INFO]: Bemf[/130.64.64.70:43195] logged in with entity id 37 at (954.0853555252208, 36.875, -34.819487102414314)
-[16:59:10] [Server thread/INFO]: Bemf joined the game
-[17:01:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[17:05:37] [User Authenticator #2/INFO]: UUID of player GunYoshi is 590b2cc8-9e48-4d9c-a2b4-03589655b0c3
-[17:05:37] [Server thread/INFO]: GunYoshi[/132.198.39.255:48742] logged in with entity id 1614 at (-671.2722341424492, 74.0, 433.30000001192093)
-[17:05:37] [Server thread/INFO]: GunYoshi joined the game
-[17:05:42] [Server thread/INFO]: <Bemf> hi!
-[17:05:45] [Server thread/INFO]: <GunYoshi> hello!
-[17:06:30] [Server thread/INFO]: <GunYoshi> hold on i may be back but i gotta test some stuff in creative lol
-[17:06:31] [Server thread/INFO]: GunYoshi lost connection: Disconnected
-[17:06:31] [Server thread/INFO]: GunYoshi left the game
-[17:11:05] [User Authenticator #3/INFO]: UUID of player GunYoshi is 590b2cc8-9e48-4d9c-a2b4-03589655b0c3
-[17:11:05] [Server thread/INFO]: GunYoshi[/132.198.39.255:61539] logged in with entity id 2968 at (-675.0381204397199, 73.0, 434.162923408672)
-[17:11:05] [Server thread/INFO]: GunYoshi joined the game
-[17:22:24] [Server thread/INFO]: <Bemf> im making an ice boat racing track
-[17:22:29] [Server thread/INFO]: <GunYoshi> woah that rocks
-[17:22:38] [Server thread/INFO]: <GunYoshi> thatll be exciting'
-[17:22:46] [Server thread/INFO]: <Bemf> it takes sooo much ice
-[17:22:55] [Server thread/INFO]: <GunYoshi> i have a litte if you want some?
-[17:23:07] [Server thread/INFO]: <Bemf> im mining it rn
-[17:23:11] [Server thread/INFO]: <GunYoshi> i think i put an ice mountain in coords if u need a good spot? but i assume u have one LOL
-[17:23:17] [Server thread/INFO]: <Bemf> ya
-[17:23:54] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=7939, y=81, z=-391} hx{x=7938, y=80, z=-390}
-[17:23:54] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=7939, y=81, z=-391} hx{x=7938, y=80, z=-390}
-[17:24:41] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=7939, y=78, z=-394} hx{x=7939, y=77, z=-394}
-[17:24:41] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=7939, y=78, z=-394} hx{x=7939, y=77, z=-394}
-[17:24:41] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=7939, y=78, z=-394} hx{x=7939, y=77, z=-394}
-[17:24:58] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=7943, y=82, z=-395} hx{x=7943, y=83, z=-396}
-[17:25:03] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=7939, y=76, z=-393} hx{x=7941, y=75, z=-390}
-[17:25:08] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=7937, y=73, z=-393} hx{x=7938, y=73, z=-392}
-[17:25:08] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=7937, y=73, z=-393} hx{x=7938, y=73, z=-392}
-[17:25:08] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=7937, y=73, z=-393} hx{x=7938, y=73, z=-392}
-[17:25:08] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=7937, y=73, z=-393} hx{x=7938, y=73, z=-392}
-[17:29:57] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=7928, y=72, z=-375} hx{x=7928, y=71, z=-376}
-[17:29:57] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=7928, y=72, z=-375} hx{x=7928, y=71, z=-376}
-[17:29:57] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=7928, y=72, z=-375} hx{x=7928, y=71, z=-376}
-[17:29:57] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=7928, y=72, z=-375} hx{x=7928, y=71, z=-376}
-[17:34:58] [Server thread/INFO]: [GunYoshi: Triggered [toggle coordinates hud]]
-[17:35:45] [Server thread/WARN]: GunYoshi moved too quickly! -13.786000563418838,-1.7205120743850273,-11.231058527268338
-[17:35:57] [Server thread/WARN]: GunYoshi moved too quickly! -16.79964951485408,-2.3372316247106966,-5.968641393642393
-[17:43:31] [Server thread/INFO]: <Bemf> -1259.5
-[17:43:48] [Server thread/INFO]: <Bemf> -1255
-[17:43:51] [Server thread/INFO]: <Bemf> -1266
-[17:52:39] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-642, y=76, z=360} hx{x=-639, y=78, z=363}
-[17:52:46] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-624, y=77, z=368} hx{x=-625, y=76, z=368}
-[17:53:53] [Server thread/INFO]: GunYoshi lost connection: Disconnected
-[17:53:53] [Server thread/INFO]: GunYoshi left the game
-[18:43:23] [Server thread/INFO]: Bemf lost connection: Disconnected
-[18:43:23] [Server thread/INFO]: Bemf left the game
-[20:35:47] [Server thread/INFO]: Stopping the server
-[20:35:47] [Server thread/INFO]: Stopping server
-[20:35:47] [Server thread/INFO]: Saving players
-[20:35:47] [Server thread/INFO]: Saving worlds
-[20:35:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:35:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:35:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:35:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:35:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:35:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:35:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:38:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:38:02] [ServerMain/INFO]: Loaded 7 recipes
+[20:38:03] [ServerMain/INFO]: Loaded 1280 advancements
+[20:38:03] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[20:38:03] [Server thread/INFO]: Loading properties
+[20:38:03] [Server thread/INFO]: Default game type: SURVIVAL
+[20:38:03] [Server thread/INFO]: Generating keypair
+[20:38:04] [Server thread/INFO]: Starting Minecraft server on 192.168.86.140:25565
+[20:38:04] [Server thread/INFO]: Using default channel type
+[20:38:04] [Server thread/INFO]: Preparing level "world"
+[20:38:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:38:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:38:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:38:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:38:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:38:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:38:07] [Worker-Main-5/INFO]: Preparing spawn area: 99%
+[20:38:07] [Server thread/INFO]: Time elapsed: 2502 ms
+[20:38:07] [Server thread/INFO]: Done (3.748s)! For help, type "help"
+[21:19:56] [User Authenticator #1/INFO]: UUID of player FrozenJarate is e817ea6d-f451-4c07-8fe9-21ba2518cf00
+[21:19:56] [Server thread/INFO]: FrozenJarate[/132.198.31.255:5047] logged in with entity id 34 at (-2400.2469446735763, 127.0, -6457.045612032048)
+[21:19:56] [Server thread/INFO]: FrozenJarate joined the game
+[21:20:11] [Server thread/INFO]: Gave 1 [Cake] to FrozenJarate
+[21:20:28] [Server thread/INFO]: /kick <targets> [<reason>]
+[21:20:36] [Server thread/INFO]: FrozenJarate lost connection: Disconnected
+[21:20:36] [Server thread/INFO]: FrozenJarate left the game
+[21:21:10] [User Authenticator #2/INFO]: UUID of player FrozenJarate is e817ea6d-f451-4c07-8fe9-21ba2518cf00
+[21:21:10] [Server thread/INFO]: FrozenJarate[/132.198.31.255:60562] logged in with entity id 258 at (-2401.0072406426243, 127.0, -6457.494091381271)
+[21:21:10] [Server thread/INFO]: FrozenJarate joined the game
+[21:21:15] [Server thread/INFO]: Kicked FrozenJarate: happy birthday!
+[21:21:15] [Server thread/INFO]: FrozenJarate lost connection: happy birthday!
+[21:21:15] [Server thread/INFO]: FrozenJarate left the game
+[22:23:15] [Server thread/INFO]: Stopping the server
+[22:23:15] [Server thread/INFO]: Stopping server
+[22:23:15] [Server thread/INFO]: Saving players
+[22:23:15] [Server thread/INFO]: Saving worlds
+[22:23:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:23:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:23:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:23:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:23:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:23:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:23:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
