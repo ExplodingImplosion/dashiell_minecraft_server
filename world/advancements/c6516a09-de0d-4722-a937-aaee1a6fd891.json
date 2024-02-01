@@ -64,6 +64,7 @@
       "minecraft:warm_ocean": "2024-01-21 21:16:34 -0500",
       "minecraft:deep_lukewarm_ocean": "2024-01-21 15:44:21 -0500",
       "minecraft:badlands": "2024-01-28 23:33:31 -0500",
+      "minecraft:flower_forest": "2024-01-31 15:16:12 -0500",
       "minecraft:beach": "2024-01-20 19:20:16 -0500",
       "minecraft:dark_forest": "2024-01-21 21:11:07 -0500",
       "minecraft:mangrove_swamp": "2024-01-21 15:45:52 -0500",
@@ -415,9 +416,11 @@
       "minecraft:pillager": "2024-01-21 18:48:31 -0500",
       "minecraft:blaze": "2024-01-21 20:53:48 -0500",
       "minecraft:skeleton": "2024-01-20 19:41:56 -0500",
+      "minecraft:elder_guardian": "2024-01-31 15:04:12 -0500",
       "minecraft:ravager": "2024-01-22 12:27:38 -0500",
       "minecraft:ghast": "2024-01-20 19:55:25 -0500",
       "minecraft:hoglin": "2024-01-20 20:00:18 -0500",
+      "minecraft:guardian": "2024-01-31 14:51:45 -0500",
       "minecraft:vindicator": "2024-01-22 12:26:25 -0500",
       "minecraft:magma_cube": "2024-01-21 17:27:52 -0500",
       "minecraft:piglin_brute": "2024-01-21 17:41:47 -0500",
@@ -4172,7 +4175,8 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "minecraft:calico": "2024-01-23 11:56:18 -0500",
-      "minecraft:persian": "2024-01-30 09:49:01 -0500"
+      "minecraft:persian": "2024-01-30 09:49:01 -0500",
+      "minecraft:red": "2024-01-31 14:47:44 -0500"
     },
     "done": false
   },
@@ -4280,6 +4284,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2024-01-31 14:48:31 -0500",
       "minecraft:cow": "2024-01-23 22:54:26 -0500",
       "minecraft:turtle": "2024-01-28 23:40:04 -0500",
       "minecraft:sheep": "2024-01-29 12:29:25 -0500"
@@ -5225,6 +5230,150 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2024-01-30 09:38:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2024-01-31 15:06:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-01-31 14:56:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2024-01-31 15:03:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-01-31 14:51:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-01-31 14:51:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2024-01-31 15:06:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2024-01-31 14:56:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2024-01-31 15:04:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2024-01-31 15:03:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2024-01-31 14:56:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-01-31 14:56:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-01-31 15:11:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-01-31 14:51:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-01-31 15:03:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2024-01-31 15:03:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-01-31 14:51:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2024-01-31 15:06:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-01-31 14:51:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-01-31 14:51:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2024-01-31 15:03:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2024-01-31 14:56:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
+    "criteria": {
+      "has_tide_armor_trim_smithing_template": "2024-01-31 15:11:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2024-01-31 15:06:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-01-31 14:56:05 -0500"
     },
     "done": true
   },
