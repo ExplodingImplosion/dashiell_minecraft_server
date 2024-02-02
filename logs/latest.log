@@ -1,11 +1,16 @@
-[01:40:12] [Server thread/INFO]: Stopping the server
-[01:40:12] [Server thread/INFO]: Stopping server
-[01:40:12] [Server thread/INFO]: Saving players
-[01:40:12] [Server thread/INFO]: Saving worlds
-[01:40:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:40:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:40:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:40:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:40:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:40:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:40:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:08:30] [User Authenticator #12/INFO]: UUID of player King_Orion is 9438c271-6781-41d2-a23c-ae87f86eefcc
+[02:08:33] [Server thread/INFO]: King_Orion[/132.198.31.255:49266] logged in with entity id 103523 at (-771.7524346497011, 93.0, 443.6695273555587)
+[02:08:33] [Server thread/INFO]: King_Orion joined the game
+[02:34:46] [Server thread/INFO]: King_Orion lost connection: Disconnected
+[02:34:46] [Server thread/INFO]: King_Orion left the game
+[13:03:20] [Server thread/INFO]: Stopping the server
+[13:03:20] [Server thread/INFO]: Stopping server
+[13:03:20] [Server thread/INFO]: Saving players
+[13:03:20] [Server thread/INFO]: Saving worlds
+[13:03:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:03:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:03:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:03:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:03:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:03:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:03:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
