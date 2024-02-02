@@ -1,16 +1,40 @@
-[02:08:30] [User Authenticator #12/INFO]: UUID of player King_Orion is 9438c271-6781-41d2-a23c-ae87f86eefcc
-[02:08:33] [Server thread/INFO]: King_Orion[/132.198.31.255:49266] logged in with entity id 103523 at (-771.7524346497011, 93.0, 443.6695273555587)
-[02:08:33] [Server thread/INFO]: King_Orion joined the game
-[02:34:46] [Server thread/INFO]: King_Orion lost connection: Disconnected
-[02:34:46] [Server thread/INFO]: King_Orion left the game
-[13:03:20] [Server thread/INFO]: Stopping the server
-[13:03:20] [Server thread/INFO]: Stopping server
-[13:03:20] [Server thread/INFO]: Saving players
-[13:03:20] [Server thread/INFO]: Saving worlds
-[13:03:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13:03:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[13:03:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[13:03:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:03:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:03:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:03:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:06:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:06:04] [ServerMain/INFO]: Loaded 7 recipes
+[13:06:04] [ServerMain/INFO]: Loaded 1280 advancements
+[13:06:05] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[13:06:05] [Server thread/INFO]: Loading properties
+[13:06:05] [Server thread/INFO]: Default game type: SURVIVAL
+[13:06:05] [Server thread/INFO]: Generating keypair
+[13:06:05] [Server thread/INFO]: Starting Minecraft server on 192.168.86.140:25565
+[13:06:05] [Server thread/INFO]: Using default channel type
+[13:06:05] [Server thread/INFO]: Preparing level "world"
+[13:06:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:06:08] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[13:06:08] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[13:06:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:06:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:06:08] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[13:06:09] [Server thread/INFO]: Time elapsed: 2483 ms
+[13:06:09] [Server thread/INFO]: Done (3.883s)! For help, type "help"
+[13:43:24] [User Authenticator #1/INFO]: UUID of player GunYoshi is 590b2cc8-9e48-4d9c-a2b4-03589655b0c3
+[13:43:24] [Server thread/INFO]: GunYoshi[/132.198.39.94:56586] logged in with entity id 33 at (-704.962477129328, 68.0, 476.6093834963699)
+[13:43:24] [Server thread/INFO]: GunYoshi joined the game
+[13:50:37] [Server thread/WARN]: GunYoshi moved too quickly! -16.22728411271919,-2.6280326864020083,-6.64318785684668
+[13:56:53] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-1856, y=56, z=-3973} hx{x=-1855, y=57, z=-3973}
+[14:00:44] [Server thread/INFO]: GunYoshi has made the advancement [Bee Our Guest]
+[14:15:56] [Server thread/WARN]: GunYoshi moved too quickly! -16.838889315453002,-1.9414274562683573,4.827032671204506
+[14:20:41] [Server thread/WARN]: GunYoshi moved too quickly! 18.975828254113367,-1.9436248917896393,-5.941218809084603E-4
+[14:20:53] [Server thread/WARN]: GunYoshi moved too quickly! 18.26546622724277,-2.118675983096196,-0.7250436930788737
+[14:30:58] [Server thread/INFO]: GunYoshi lost connection: Disconnected
+[14:30:58] [Server thread/INFO]: GunYoshi left the game
+[16:21:46] [Server thread/INFO]: Stopping the server
+[16:21:46] [Server thread/INFO]: Stopping server
+[16:21:46] [Server thread/INFO]: Saving players
+[16:21:46] [Server thread/INFO]: Saving worlds
+[16:21:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:21:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:21:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:21:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:21:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:21:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:21:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
