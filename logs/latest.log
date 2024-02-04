@@ -1,40 +1,150 @@
-[13:06:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:06:04] [ServerMain/INFO]: Loaded 7 recipes
-[13:06:04] [ServerMain/INFO]: Loaded 1280 advancements
-[13:06:05] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[13:06:05] [Server thread/INFO]: Loading properties
-[13:06:05] [Server thread/INFO]: Default game type: SURVIVAL
-[13:06:05] [Server thread/INFO]: Generating keypair
-[13:06:05] [Server thread/INFO]: Starting Minecraft server on 192.168.86.140:25565
-[13:06:05] [Server thread/INFO]: Using default channel type
-[13:06:05] [Server thread/INFO]: Preparing level "world"
-[13:06:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:06:08] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[13:06:08] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[13:06:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:06:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:06:08] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[13:06:09] [Server thread/INFO]: Time elapsed: 2483 ms
-[13:06:09] [Server thread/INFO]: Done (3.883s)! For help, type "help"
-[13:43:24] [User Authenticator #1/INFO]: UUID of player GunYoshi is 590b2cc8-9e48-4d9c-a2b4-03589655b0c3
-[13:43:24] [Server thread/INFO]: GunYoshi[/132.198.39.94:56586] logged in with entity id 33 at (-704.962477129328, 68.0, 476.6093834963699)
-[13:43:24] [Server thread/INFO]: GunYoshi joined the game
-[13:50:37] [Server thread/WARN]: GunYoshi moved too quickly! -16.22728411271919,-2.6280326864020083,-6.64318785684668
-[13:56:53] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-1856, y=56, z=-3973} hx{x=-1855, y=57, z=-3973}
-[14:00:44] [Server thread/INFO]: GunYoshi has made the advancement [Bee Our Guest]
-[14:15:56] [Server thread/WARN]: GunYoshi moved too quickly! -16.838889315453002,-1.9414274562683573,4.827032671204506
-[14:20:41] [Server thread/WARN]: GunYoshi moved too quickly! 18.975828254113367,-1.9436248917896393,-5.941218809084603E-4
-[14:20:53] [Server thread/WARN]: GunYoshi moved too quickly! 18.26546622724277,-2.118675983096196,-0.7250436930788737
-[14:30:58] [Server thread/INFO]: GunYoshi lost connection: Disconnected
-[14:30:58] [Server thread/INFO]: GunYoshi left the game
-[16:21:46] [Server thread/INFO]: Stopping the server
-[16:21:46] [Server thread/INFO]: Stopping server
-[16:21:46] [Server thread/INFO]: Saving players
-[16:21:46] [Server thread/INFO]: Saving worlds
-[16:21:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:21:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:21:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:21:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:21:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:21:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:21:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:26:16] [User Authenticator #1/INFO]: UUID of player King_Orion is 9438c271-6781-41d2-a23c-ae87f86eefcc
+[12:26:17] [Server thread/INFO]: King_Orion[/132.198.29.108:53590] logged in with entity id 34 at (-764.5836273293642, 93.0, 443.0838795489784)
+[12:26:17] [Server thread/INFO]: King_Orion joined the game
+[12:26:40] [Server thread/INFO]: King_Orion lost connection: Disconnected
+[12:26:40] [Server thread/INFO]: King_Orion left the game
+[14:48:38] [User Authenticator #2/INFO]: UUID of player King_Orion is 9438c271-6781-41d2-a23c-ae87f86eefcc
+[14:48:39] [Server thread/INFO]: King_Orion[/132.198.29.108:53977] logged in with entity id 363 at (-764.5836273293642, 93.0, 443.0838795489784)
+[14:48:39] [Server thread/INFO]: King_Orion joined the game
+[16:20:21] [Server thread/INFO]: King_Orion was killed by Witch using magic
+[16:23:15] [Server thread/INFO]: King_Orion was slain by Zombie
+[16:23:17] [Server thread/WARN]: King_Orion moved too quickly! 51.80000001192093,11.0,-116.80000001192093
+[17:43:25] [User Authenticator #3/INFO]: UUID of player GunYoshi is 590b2cc8-9e48-4d9c-a2b4-03589655b0c3
+[17:43:25] [Server thread/INFO]: GunYoshi[/132.198.39.94:50211] logged in with entity id 26855 at (-631.3741107120325, -32.0, 225.15172363068345)
+[17:43:25] [Server thread/INFO]: GunYoshi joined the game
+[17:43:31] [Server thread/INFO]: <GunYoshi> hello!
+[17:43:37] [Server thread/INFO]: <King_Orion> helloes
+[17:44:38] [Server thread/INFO]: <King_Orion> you should check out the bee dome
+[17:44:42] [Server thread/INFO]: <GunYoshi> ooooh i will
+[17:44:51] [Server thread/INFO]: <GunYoshi> also. i maybe lost the bees. BUT ILLL GET MORE!!
+[17:44:56] [Server thread/INFO]: <King_Orion> lol
+[17:44:57] [Server thread/INFO]: <GunYoshi> im underground rn but ill come up
+[17:48:26] [Server thread/INFO]: <GunYoshi> bee dome!!!
+[17:48:30] [Server thread/INFO]: <King_Orion> :D
+[17:48:33] [Server thread/INFO]: <GunYoshi> this looks awesome omg
+[17:48:43] [Server thread/INFO]: <King_Orion> thank you!
+[17:48:56] [Server thread/INFO]: <King_Orion> can you help me make a custom tree in the middle?
+[17:49:04] [Server thread/INFO]: <GunYoshi> I love love love the corner bits
+[17:49:08] [Server thread/INFO]: <GunYoshi> ofc!!
+[17:50:20] [Server thread/INFO]: <King_Orion> i'm thinkin oak tree
+[17:50:47] [Server thread/INFO]: <GunYoshi> do u maybe wanna get some reference images
+[17:50:52] [Server thread/INFO]: <GunYoshi> just so i knpw what we're gping for
+[17:50:55] [Server thread/INFO]: <King_Orion> ye
+[17:50:56] [Server thread/INFO]: <GunYoshi> like real or minecraft
+[17:51:10] [Server thread/INFO]: <GunYoshi> im gonna look for beehives
+[17:54:51] [Server thread/INFO]: <GunYoshi> BEES SPOTTED!
+[17:54:54] [Server thread/INFO]: <GunYoshi> pls dont sleep tn
+[17:55:18] [Server thread/INFO]: <King_Orion> sent to ur discord
+[17:55:30] [Server thread/INFO]: <GunYoshi> beautiful
+[17:55:34] [Server thread/INFO]: <GunYoshi> will check in a sec
+[17:55:37] [Server thread/INFO]: <GunYoshi> gotta watch the bees
+[17:55:39] [Server thread/INFO]: <King_Orion> oke
+[17:56:00] [Server thread/INFO]: <GunYoshi> three bees accquire
+[17:56:01] [Server thread/INFO]: <GunYoshi> d
+[17:56:07] [Server thread/INFO]: <King_Orion> yippeeeee
+[17:56:12] [Server thread/INFO]: <GunYoshi> u can sleep also if u want lol
+[17:59:46] [Server thread/INFO]: <GunYoshi> done
+[18:00:02] [Server thread/INFO]: <GunYoshi> oh beatufil
+[18:00:27] [Server thread/INFO]: <GunYoshi> how big do u want it
+[18:00:28] [Server thread/INFO]: <King_Orion> i like your tree designs :)
+[18:00:32] [Server thread/INFO]: <GunYoshi> thank you!!
+[18:00:43] [Server thread/INFO]: <King_Orion> tall enough to put a beehive on prolly
+[18:00:47] [Server thread/INFO]: <GunYoshi> i mean like
+[18:00:52] [Server thread/INFO]: <GunYoshi> is it like a fill the room sorta tree
+[18:00:58] [Server thread/INFO]: <GunYoshi> or like a nice center peice sorta tree
+[18:01:18] [Server thread/INFO]: <King_Orion> like center piece
+[18:01:21] [Server thread/INFO]: <GunYoshi> ok ok cool;
+[18:01:21] [Server thread/INFO]: <King_Orion> not suuuuper big
+[18:02:49] [Server thread/INFO]: <King_Orion> maybe a little taller
+[18:02:49] [Server thread/INFO]: <GunYoshi> do u have extra stairs
+[18:03:36] [Server thread/INFO]: <GunYoshi> btw if u wanna grab flowers i have abumnch in my chest
+[18:03:41] [Server thread/INFO]: <King_Orion> :)
+[18:08:12] [Server thread/INFO]: <King_Orion> :0
+[18:08:23] [Server thread/INFO]: <GunYoshi> still working on the little branch
+[18:08:24] [Server thread/INFO]: <King_Orion> this is so good!
+[18:08:30] [Server thread/INFO]: <GunYoshi> hank u!!
+[18:08:31] [Server thread/INFO]: <GunYoshi> t
+[18:09:18] [Server thread/INFO]: <GunYoshi> i will give mojang one trillion dollars for leaf slabs
+[18:09:23] [Server thread/INFO]: <King_Orion> agree
+[18:10:08] [Server thread/INFO]: <GunYoshi> are u gonna close it up? or free roaming bees
+[18:10:12] [Server thread/INFO]: <King_Orion> ye
+[18:10:16] [Server thread/INFO]: <GunYoshi> hell yeah
+[18:12:39] [Server thread/INFO]: <GunYoshi> btw there are jack o lanters under the moss carpets
+[18:12:44] [Server thread/INFO]: <King_Orion> oooooo
+[18:12:48] [Server thread/INFO]: <GunYoshi> and some extra stuff in the chest
+[18:12:54] [Server thread/INFO]: <King_Orion> amazing
+[18:12:56] [Server thread/INFO]: <GunYoshi> do u want moss?
+[18:13:04] [Server thread/INFO]: <King_Orion> ye
+[18:16:00] [Server thread/INFO]: <GunYoshi> do u wanna put the bees in?
+[18:16:03] [Server thread/INFO]: <GunYoshi> i just rlly need honey LOL
+[18:16:08] [Server thread/INFO]: <King_Orion> ye
+[18:16:51] [Server thread/INFO]: <GunYoshi> i love the colors in here also
+[18:17:02] [Server thread/INFO]: <King_Orion> :D
+[18:17:04] [Server thread/INFO]: <GunYoshi> like its very nice but not like overwhelmingly colorful
+[18:17:10] [Server thread/INFO]: <King_Orion> yea!
+[18:17:40] [Server thread/INFO]: <GunYoshi> yes!!! i hate tall grass!!
+[18:17:46] [Server thread/INFO]: <King_Orion> fr
+[18:18:01] [Server thread/INFO]: <King_Orion> yippeeee
+[18:18:01] [Server thread/INFO]: <GunYoshi> beautiful if i may say so
+[18:18:14] [Server thread/INFO]: <King_Orion> i'm gonna get lanterns
+[18:18:15] [Server thread/INFO]: <GunYoshi> u should take what u want from the chest my inventory is pm full
+[18:18:44] [Server thread/INFO]: <King_Orion> there's vindicators
+[18:19:30] [Server thread/INFO]: <GunYoshi> did u kill the banner one?
+[18:19:33] [Server thread/INFO]: <King_Orion> no
+[18:19:37] [Server thread/INFO]: <GunYoshi> huh.
+[18:19:39] [Server thread/INFO]: <King_Orion> i didn't touch them
+[18:19:43] [Server thread/INFO]: <GunYoshi> well i didnt either lol
+[18:19:49] [Server thread/INFO]: <King_Orion> weird
+[18:21:12] [Server thread/INFO]: <GunYoshi> did u see what direction the pillagers came from?
+[18:21:15] [Server thread/INFO]: <King_Orion> nope
+[18:21:21] [Server thread/INFO]: <King_Orion> i just left the bee dome and they were there
+[18:21:49] [Server thread/INFO]: <GunYoshi> looking into this
+[18:21:52] [Server thread/INFO]: <King_Orion> oke
+[18:22:21] [Server thread/INFO]: <GunYoshi> beautiful!
+[18:22:24] [Server thread/INFO]: <King_Orion> :D
+[18:22:25] [Server thread/INFO]: <GunYoshi> have the bees come out yet?
+[18:22:40] [Server thread/INFO]: <King_Orion> :0
+[18:22:48] [Server thread/INFO]: <King_Orion> beeeeeeees
+[18:22:51] [Server thread/INFO]: <King_Orion> i love them
+[18:22:53] [Server thread/INFO]: <King_Orion> so cute
+[18:22:58] [Server thread/INFO]: <GunYoshi> little guys
+[18:23:01] [Server thread/INFO]: <King_Orion> fr
+[18:23:18] [Server thread/INFO]: <King_Orion> :0000
+[18:23:20] [Server thread/INFO]: <King_Orion> baby bees
+[18:23:23] [Server thread/INFO]: <GunYoshi> i need MORE!!!
+[18:24:46] [Server thread/INFO]: <GunYoshi> i love the little lanters
+[18:24:50] [Server thread/INFO]: <King_Orion> thank you!
+[18:24:56] [Server thread/INFO]: <King_Orion> i want to see what it looks like at night
+[18:25:02] [Server thread/INFO]: <GunYoshi> me too
+[18:25:13] [Server thread/INFO]: <GunYoshi> but i also want some damn honey!!!
+[18:25:18] [Server thread/INFO]: <King_Orion> lol
+[18:25:22] [Server thread/INFO]: <GunYoshi> i need four blocks for the bone meal farm
+[18:25:27] [Server thread/INFO]: <King_Orion> damn
+[18:27:54] [Server thread/INFO]: <King_Orion> did you just shoot at me
+[18:27:57] [Server thread/INFO]: <GunYoshi> erm
+[18:27:58] [Server thread/INFO]: <GunYoshi> no
+[18:28:02] [Server thread/INFO]: <King_Orion> lol
+[18:29:07] [Server thread/INFO]: <GunYoshi> HONEY!
+[18:29:08] [Server thread/INFO]: <King_Orion> night dome night dome
+[18:29:20] [Server thread/INFO]: <GunYoshi> as opposed to morning head>
+[18:29:21] [Server thread/INFO]: <GunYoshi> ?
+[18:29:24] [Server thread/INFO]: <GunYoshi> sorry
+[18:29:26] [Server thread/INFO]: <King_Orion> yes
+[18:29:33] [Server thread/INFO]: <GunYoshi> ooooh i love ligths
+[18:30:17] [Server thread/INFO]: <GunYoshi> grinner time!!
+[18:30:18] [Server thread/INFO]: GunYoshi lost connection: Disconnected
+[18:30:18] [Server thread/INFO]: GunYoshi left the game
+[19:03:39] [Server thread/INFO]: King_Orion has made the advancement [Bee Our Guest]
+[19:05:05] [Server thread/INFO]: King_Orion lost connection: Disconnected
+[19:05:05] [Server thread/INFO]: King_Orion left the game
+[20:35:27] [Server thread/INFO]: Stopping the server
+[20:35:27] [Server thread/INFO]: Stopping server
+[20:35:27] [Server thread/INFO]: Saving players
+[20:35:27] [Server thread/INFO]: Saving worlds
+[20:35:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:35:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:35:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:35:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:35:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:35:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:35:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
