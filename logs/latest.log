@@ -1,30 +1,11 @@
-[13:29:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:29:21] [ServerMain/INFO]: Loaded 7 recipes
-[13:29:22] [ServerMain/INFO]: Loaded 1280 advancements
-[13:29:23] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[13:29:23] [Server thread/INFO]: Loading properties
-[13:29:23] [Server thread/INFO]: Default game type: SURVIVAL
-[13:29:23] [Server thread/INFO]: Generating keypair
-[13:29:23] [Server thread/INFO]: Starting Minecraft server on 192.168.86.140:25565
-[13:29:23] [Server thread/INFO]: Using default channel type
-[13:29:23] [Server thread/INFO]: Preparing level "world"
-[13:29:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:29:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:29:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:29:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:29:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:29:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:29:27] [Worker-Main-1/INFO]: Preparing spawn area: 47%
-[13:29:27] [Server thread/INFO]: Time elapsed: 2664 ms
-[13:29:27] [Server thread/INFO]: Done (4.018s)! For help, type "help"
-[13:29:27] [Server thread/INFO]: Stopping the server
-[13:29:27] [Server thread/INFO]: Stopping server
-[13:29:27] [Server thread/INFO]: Saving players
-[13:29:27] [Server thread/INFO]: Saving worlds
-[13:29:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13:29:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[13:29:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[13:29:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:29:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:29:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:29:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:38:02] [Server thread/INFO]: Stopping the server
+[00:38:03] [Server thread/INFO]: Stopping server
+[00:38:03] [Server thread/INFO]: Saving players
+[00:38:03] [Server thread/INFO]: Saving worlds
+[00:38:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:38:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:38:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:38:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:38:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:38:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:38:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
