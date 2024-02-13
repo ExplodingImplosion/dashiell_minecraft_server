@@ -47,6 +47,7 @@
       "minecraft:lush_caves": "2024-01-21 13:50:06 -0500",
       "minecraft:deep_cold_ocean": "2024-01-20 23:02:13 -0500",
       "minecraft:ice_spikes": "2024-01-28 21:04:01 -0500",
+      "minecraft:frozen_ocean": "2024-02-13 11:42:37 -0500",
       "minecraft:desert": "2024-01-21 13:31:46 -0500",
       "minecraft:frozen_river": "2024-01-22 17:12:31 -0500",
       "minecraft:windswept_forest": "2024-01-22 21:27:22 -0500",
@@ -477,27 +478,28 @@
       "minecraft:pillager": "2024-01-22 11:35:42 -0500",
       "minecraft:blaze": "2024-01-22 16:33:21 -0500",
       "minecraft:skeleton": "2024-01-20 17:25:09 -0500",
-      "minecraft:phantom": "2024-01-21 13:24:46 -0500",
-      "minecraft:witch": "2024-01-22 12:28:40 -0500",
-      "minecraft:wither_skeleton": "2024-01-22 16:32:29 -0500",
       "minecraft:ghast": "2024-01-21 10:50:41 -0500",
       "minecraft:hoglin": "2024-01-21 12:26:10 -0500",
-      "minecraft:shulker": "2024-01-22 22:07:34 -0500",
-      "minecraft:piglin": "2024-01-20 18:56:23 -0500",
       "minecraft:vindicator": "2024-01-24 11:37:47 -0500",
-      "minecraft:enderman": "2024-01-21 15:31:44 -0500",
-      "minecraft:silverfish": "2024-01-22 21:57:38 -0500",
       "minecraft:magma_cube": "2024-01-21 12:43:04 -0500",
       "minecraft:spider": "2024-01-20 17:25:06 -0500",
       "minecraft:piglin_brute": "2024-01-21 12:37:49 -0500",
+      "minecraft:creeper": "2024-01-20 17:34:40 -0500",
+      "minecraft:wither": "2024-01-25 12:09:49 -0500",
+      "minecraft:evoker": "2024-01-24 11:36:33 -0500",
+      "minecraft:slime": "2024-02-01 12:58:34 -0500",
+      "minecraft:phantom": "2024-01-21 13:24:46 -0500",
+      "minecraft:witch": "2024-01-22 12:28:40 -0500",
+      "minecraft:wither_skeleton": "2024-01-22 16:32:29 -0500",
+      "minecraft:shulker": "2024-01-22 22:07:34 -0500",
+      "minecraft:cave_spider": "2024-02-13 12:25:17 -0500",
+      "minecraft:piglin": "2024-01-20 18:56:23 -0500",
+      "minecraft:enderman": "2024-01-21 15:31:44 -0500",
+      "minecraft:silverfish": "2024-01-22 21:57:38 -0500",
       "minecraft:vex": "2024-01-22 12:30:39 -0500",
       "minecraft:zombie": "2024-01-20 17:25:23 -0500",
-      "minecraft:creeper": "2024-01-20 17:34:40 -0500",
       "minecraft:drowned": "2024-01-20 17:05:54 -0500",
-      "minecraft:wither": "2024-01-25 12:09:49 -0500",
-      "minecraft:zombie_villager": "2024-01-23 19:03:59 -0500",
-      "minecraft:evoker": "2024-01-24 11:36:33 -0500",
-      "minecraft:slime": "2024-02-01 12:58:34 -0500"
+      "minecraft:zombie_villager": "2024-01-23 19:03:59 -0500"
     },
     "done": false
   },
@@ -4379,6 +4381,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2024-02-12 22:53:12 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_trapdoor": {
     "criteria": {
       "has_planks": "2024-02-12 22:53:15 -0500"
@@ -4394,12 +4402,6 @@
   "minecraft:recipes/building_blocks/bamboo_slab": {
     "criteria": {
       "has_planks": "2024-02-12 22:53:15 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_planks": {
-    "criteria": {
-      "has_logs": "2024-02-12 22:53:12 -0500"
     },
     "done": true
   },
@@ -4436,6 +4438,18 @@
   "minecraft:recipes/decorations/bamboo_fence": {
     "criteria": {
       "has_planks": "2024-02-12 22:53:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-02-13 12:47:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2024-02-13 13:05:40 -0500"
     },
     "done": true
   },
